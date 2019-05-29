@@ -1,10 +1,10 @@
 - [3k4733294]
-- [Dennaolan.sql]
+- [Dennaolan]
 - [Kellly.cpp]
 
 [1_Two Sum](https://leetcode.com/problems/two-sum/)
 - [3k4733294]
-- [Dennaolan.sql]
+- [Dennaolan]
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
 
 [595_Big Countries](https://leetcode.com/problems/big-countries/)
