@@ -20,7 +20,7 @@
 [771_Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [3k4733294]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Dennaolan.cpp)
-- [Kellly.cpp]
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Kellly.cpp)
 
 [804_Unique Morse Code Words](https://leetcode.com/problems/unique-email-addresses/)
 - [3k4733294]
