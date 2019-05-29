@@ -17,7 +17,7 @@
 ## 題目清單
 
 [1_Two Sum](https://leetcode.com/problems/two-sum/)
-- [3k4733294.?]
+- [3k4733294.?](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c)
 - [Dennaolan.?]
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
 - [tkd9714.?]
