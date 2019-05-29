@@ -7,7 +7,7 @@
 - [Dennaolan.sql]
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
 
-[595_Big Countries](https://leetcode.com/problems/big-countries/submissions/)
+[595_Big Countries](https://leetcode.com/problems/big-countries/)
 - [3k4733294]
 - [Dennaolan.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Dennaolan.sql)
 - [Kellly.cpp]
@@ -22,7 +22,7 @@
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Kellly.cpp)
 
-[804_Unique Morse Code Words](https://leetcode.com/problems/unique-email-addresses/)
+[804_Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [3k4733294]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/Dennaolan.cpp)
 - [Kellly.cpp]
@@ -32,7 +32,7 @@
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/Dennaolan.cpp)
 - [Kellly.cpp]
 
-[929_Unique Email Addresses](https://leetcode.com/problems/unique-morse-code-words/)
+[929_Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
 - [3k4733294]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/929_Unique%20Email%20Addresses/Dennaolan.cpp)
 - [Kellly.cpp]
