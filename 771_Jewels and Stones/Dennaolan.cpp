@@ -10,7 +10,7 @@ public:
               count++;
               break; // found the character inside -> stop this loop
             } // if found
-        } //  for ( check string S's content is contaning in string J )
+        } //  for ( check string S's content is containing in string J )
           
       } // for ( confirm string S's content )
         
