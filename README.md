@@ -18,7 +18,7 @@
 - [Kellly.cpp]
 
 [771_Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
-- [3k4733294]
+- [3k4733294](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/3k4733294.cpp)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Kellly.cpp)
 
