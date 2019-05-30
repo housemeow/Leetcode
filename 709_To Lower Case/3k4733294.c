@@ -22,7 +22,7 @@ char * toLowerCase(char * str){
             
         }
         //char a = strcharnum;
-        newstr[i] = 'a' ;  //store to newstr with position result
+        newstr[i] = strcharnum ;  //store to newstr with position result
         //printf ("toLCstr %d.\n",*(newstr+i));
     }
    return newstr;
