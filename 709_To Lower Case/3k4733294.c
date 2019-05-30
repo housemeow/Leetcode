@@ -1,8 +1,8 @@
 
 char * toLowerCase(char * str){
     int strsize = strlen(str) ;  //prevent memory loop leak (why have 2 size?)
-    printf ("The charstr is %s.\n",str);
-    printf ("The charsizeIs %d",strsize);
+    //printf ("The charstr is %s.\n",str);
+    //printf ("The charsizeIs %d",strsize);
     //char toLCstr[strsize];
     //char* newstr;
     //char* newstr = malloc(strsize*sizeof(char)); 
@@ -22,7 +22,7 @@ char * toLowerCase(char * str){
             
         }
         //char a = strcharnum;
-        //newstr[i] = 'a' ;  //store to newstr with position result
+        newstr[i] = 'a' ;  //store to newstr with position result
         //printf ("toLCstr %d.\n",*(newstr+i));
     }
    return newstr;
