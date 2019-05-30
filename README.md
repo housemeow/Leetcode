@@ -25,7 +25,7 @@
 [595_Big Countries](https://leetcode.com/problems/big-countries/)
 - [3k4733294.?]
 - [Dennaolan.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Dennaolan.sql)
-- [Kellly.cpp]
+- [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Kellly.sql)
 - [tkd9714.?]
 
 [709_To Lower Case](https://leetcode.com/problems/to-lower-case/)
