@@ -62,7 +62,7 @@
 [961_N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Dennaolan.cpp)
-- [Kellly.cpp](https://github.com/housemeow/Leetcode/tree/master/961_N-Repeated%20Element%20in%20Size%202N%20Array)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Kellly.cpp)
 - [tkd9714.?]
 
 [977_Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
