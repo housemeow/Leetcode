@@ -11,6 +11,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
                 result = (int*)malloc(sizeof(int) * 2);
                 result[0] = i;
                 result[1] = j;
+                *returnSize = 2;
                 return result;
             }
         }
