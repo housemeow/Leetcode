@@ -23,7 +23,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php)
 
-[7_Two Sum](https://leetcode.com/problems/reverse-integer/)
+[7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [3k4733294.?]
 - [Dennaolan.?]
 - [Kellly.?]
