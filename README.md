@@ -45,7 +45,7 @@
 - [3k4733294.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/3k4733294.cpp)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Kellly.cpp)
-- [tkd9714.?]
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/tkd9714.php)
 
 [804_Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [3k4733294.?]
