@@ -24,7 +24,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php)
 
 [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
-- [3k4733294.?](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/3k4733294.c)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/3k4733294.c)
 - [Dennaolan.?]
 - [Kellly.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/tkd9714.php)
