@@ -23,6 +23,12 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php)
 
+[7_Two Sum](https://leetcode.com/problems/reverse-integer/)
+- [3k4733294.?]
+- [Dennaolan.?]
+- [Kellly.?]
+- [tkd9714.?]
+
 [595_Big Countries](https://leetcode.com/problems/big-countries/)
 - [3k4733294.?]
 - [Dennaolan.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Dennaolan.sql)
