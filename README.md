@@ -11,6 +11,7 @@
 - [3k4733294.?]
 - [Dennaolan.?]
 - [Kellly.?]
+- [oiloiloil.?]
 - [tkd9714.?]
 - [who.language](github.code.url/)
 
@@ -21,6 +22,7 @@
 - [Dennaolan.?]
 - [Kellly.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.c)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
+- [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php)
 
 [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
@@ -33,6 +35,7 @@
 - [3k4733294.?]
 - [Dennaolan.?]
 - [Kellly.?]
+- [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/tkd9714.php)
 - [9_palindrome_number.py](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/pyhton3/9_palindrome_number.py)
 
@@ -40,30 +43,35 @@
 - [3k4733294.?]
 - [Dennaolan.?]
 - [Kellly.?]
+- [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/tkd9714.php)
 
 [595_Big Countries](https://leetcode.com/problems/big-countries/)
 - [3k4733294.?]
 - [Dennaolan.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Dennaolan.sql)
 - [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Kellly.sql)
+- [oiloiloil.?]
 - [tkd9714.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/tkd9714.sql)
 
 [709_To Lower Case](https://leetcode.com/problems/to-lower-case/)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/3k4733294.c)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/Dennaolan.cpp)
 - [Kellly.?]
+- [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/tkd9714.php)
 
 [771_Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [3k4733294.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/3k4733294.cpp)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Kellly.cpp)
+- [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/tkd9714.php)
 
 [804_Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/Dennaolan.cpp)
 - [Kellly.?]
+- [oiloiloil.?]
 - [tkd9714.?]
 
 [832_Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
@@ -76,28 +84,33 @@
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/Dennaolan.cpp)
 - [Kellly.?]
+- [oiloiloil.?]
 - [tkd9714.?]
 
 [929_Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/929_Unique%20Email%20Addresses/Dennaolan.cpp)
 - [Kellly.?]
+- [oiloiloil.?]
 - [tkd9714.?]
 
 [961_N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Kellly.cpp)
+- [oiloiloil.?]
 - [tkd9714.?]
 
 [977_Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/Dennaolan.cpp)
 - [Kellly.?]
+- [oiloiloil.?]
 - [tkd9714.?]
 
 [1021_Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/1021_Remove%20Outermost%20Parentheses/Dennaolan.cpp)
 - [Kellly.?]
+- [oiloiloil.?]
 - [tkd9714.?]
