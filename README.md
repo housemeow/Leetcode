@@ -54,7 +54,7 @@
 - [Dennaolan.?]
 - [Kellly.?]
 - [oiloiloil.?]
-- [tkd9714.php]()
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/tkd9714.php)
 
 [595_Big Countries](https://leetcode.com/problems/big-countries/)
 - [3k4733294.?]
