@@ -49,6 +49,13 @@
 - [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/tkd9714.php)
 
+[14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [3k4733294.?]
+- [Dennaolan.?]
+- [Kellly.?]
+- [oiloiloil.?]
+- [tkd9714.php]()
+
 [595_Big Countries](https://leetcode.com/problems/big-countries/)
 - [3k4733294.?]
 - [Dennaolan.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Dennaolan.sql)
