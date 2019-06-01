@@ -35,7 +35,9 @@
 [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [3k4733294.?]
 - [Dennaolan.?]
-- [Kellly.?]
+- [Kellly(list).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly(list).cpp)
+- [Kellly(math).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly(math).cpp)
+- [Kellly.(stack&queue).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly.(stack%26queue).cpp)
 - [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/tkd9714.php)
 - [9_palindrome_number.py](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/pyhton3/9_palindrome_number.py)
