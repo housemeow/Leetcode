@@ -34,7 +34,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/tkd9714.php)
 
 [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-- [3k4733294.?]
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/3k4733294.c)
 - [Dennaolan.?]
 - [Kellly(list).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly(list).cpp)
 - [Kellly(math).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly(math).cpp)
