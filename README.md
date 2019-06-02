@@ -19,7 +19,8 @@
 
 [1_Two Sum](https://leetcode.com/problems/two-sum/)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c)
-- [Dennaolan.?]
+- [Dennaolan.
+?]
 - [Kellly.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.c)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
 - [oiloiloil.?]
@@ -93,7 +94,7 @@
 [905_Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/Dennaolan.cpp)
-- [Kellly.?]
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/832_Flipping%20an%20Image/Kellly.cpp)
 - [oiloiloil.?]
 - [tkd9714.?]
 
