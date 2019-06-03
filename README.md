@@ -96,6 +96,13 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/tkd9714.php)
 </details>
 
+### [27_Remove Element](https://leetcode.com/problems/remove-element/)
+<details>
+	<summary>tkd9714.php</summary>
+	
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/tkd9714.php)
+</details>
+
 ### [595_Big Countries](https://leetcode.com/problems/big-countries/)
 
 <details>
