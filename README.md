@@ -103,6 +103,12 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/tkd9714.php)
 </details>
 
+### [28_Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+<details>
+	<summary>tkd9714.php</summary>
+
+- [tkd9714.php]()
+</details>
 ### [595_Big Countries](https://leetcode.com/problems/big-countries/)
 
 <details>
