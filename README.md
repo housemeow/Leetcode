@@ -58,27 +58,38 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/tkd9714.php)
 </details>
 
+<details>
+  <summary>題目551-600</summary>
 [595_Big Countries](https://leetcode.com/problems/big-countries/)
 - [3k4733294.?]
 - [Dennaolan.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Dennaolan.sql)
 - [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Kellly.sql)
 - [oiloiloil.?]
 - [tkd9714.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/tkd9714.sql)
+</details>
 
+<details>
+  <summary>題目701-750</summary>
 [709_To Lower Case](https://leetcode.com/problems/to-lower-case/)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/3k4733294.c)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/Kellly.cpp)
 - [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/tkd9714.php)
+</details>
 
+<details>
+  <summary>題目751-800</summary>
 [771_Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [3k4733294.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/3k4733294.cpp)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Kellly.cpp)
 - [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/tkd9714.php)
+</details>
 
+<details>
+  <summary>題目801-850</summary>
 [804_Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/Dennaolan.cpp)
@@ -90,8 +101,12 @@
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/832_Flipping%20an%20Image/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/832_Flipping%20an%20Image/Kellly.cpp)
+- [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/832_Flipping%20an%20Image/tkd9714.php)
+</details>
 
+<details>
+  <summary>題目901-950</summary>
 [905_Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/Dennaolan.cpp)
@@ -105,7 +120,10 @@
 - [Kellly.?]
 - [oiloiloil.?]
 - [tkd9714.?]
+</details>
 
+<details>
+  <summary>題目951-1000</summary>
 [961_N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Dennaolan.cpp)
@@ -119,10 +137,15 @@
 - [Kellly.?]
 - [oiloiloil.?]
 - [tkd9714.?]
+</details>
 
+<details>
+  <summary>題目1001-1050</summary>
 [1021_Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 - [3k4733294.?]
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/1021_Remove%20Outermost%20Parentheses/Dennaolan.cpp)
 - [Kellly.?]
 - [oiloiloil.?]
 - [tkd9714.?]
+</details>
+
