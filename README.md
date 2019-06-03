@@ -76,9 +76,9 @@
 
 ### [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 <details>
-	<summary>21_merge_two_sorted_lists.py</summary>
+	<summary>oiloiloil.py</summary>
 
-- [21_merge_two_sorted_lists.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/21_merge_two_sorted_lists.py)
+- [oiloiloil.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/21_merge_two_sorted_lists.py)
 </details>
 
 ### [595_Big Countries](https://leetcode.com/problems/big-countries/)
