@@ -1,5 +1,10 @@
 # 大家一起Leetcode
-
+<details>
+  <summary>1-50</summary>
+  1.
+  2.
+  3.
+</details>
 ## 使用步驟
 1. 下面挑一題
 2. AC後在指定資料夾建個屬於你名字的檔名.副檔名 (Example: Kellly.cpp, Dennaolan.sql)
