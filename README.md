@@ -139,7 +139,7 @@
 
 ### [929_Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
 <details>
-	<summary>Dennaolan.cpp,  tkd9714.php</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/929_Unique%20Email%20Addresses/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/929_Unique%20Email%20Addresses/Kellly.cpp)
