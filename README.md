@@ -149,10 +149,11 @@
 
 ### [961_N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 <details>
-	<summary>Dennaolan.cpp, Kellly.cpp</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Kellly.cpp)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/tkd9714.php)
 </details>
 
 
