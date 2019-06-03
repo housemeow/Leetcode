@@ -17,6 +17,7 @@
 ## 題目清單
 <details>
   <summary>題目1-50</summary>
+  
   [1_Two Sum](https://leetcode.com/problems/two-sum/)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c)
 - [Dennaolan.?]
