@@ -18,7 +18,7 @@
 <details>
   <summary>題目1-50</summary>
   
-  [1_Two Sum](https://leetcode.com/problems/two-sum/)
+[1_Two Sum](https://leetcode.com/problems/two-sum/)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c)
 - [Dennaolan.?]
 - [Kellly.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.c)
@@ -33,7 +33,7 @@
 - [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/tkd9714.php)
 
-  [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+[9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/3k4733294.c)
 - [Dennaolan.?]
 - [Kellly(list).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly(list).cpp)
@@ -43,14 +43,14 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/tkd9714.php)
 - [9_palindrome_number.py](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/pyhton3/9_palindrome_number.py)
 
-  [13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+[13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [3k4733294.?]
 - [Dennaolan.?]
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/Kellly.cpp)
 - [oiloiloil.?]
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/tkd9714.php)
 
-  [14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+[14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [3k4733294.?]
 - [Dennaolan.?]
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/Kellly.cpp)
