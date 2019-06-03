@@ -159,9 +159,10 @@
 
 ### [977_Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 <details>
-	<summary>Dennaolan.cpp</summary>
+	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/Dennaolan.cpp)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/tkd9714.php)
 </details>
 
 
