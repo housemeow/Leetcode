@@ -107,8 +107,9 @@
 <details>
 	<summary>tkd9714.php</summary>
 
-- [tkd9714.php]()
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/tkd9714.php)
 </details>
+
 ### [595_Big Countries](https://leetcode.com/problems/big-countries/)
 
 <details>
