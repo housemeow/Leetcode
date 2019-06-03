@@ -89,6 +89,13 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/tkd9714.php)
 </details>
 
+### [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+<details>
+	<summary>tkd9714.php</summary>
+	
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/tkd9714.php)
+</details>
+
 ### [595_Big Countries](https://leetcode.com/problems/big-countries/)
 
 <details>
