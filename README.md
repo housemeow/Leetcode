@@ -78,7 +78,7 @@
 <details>
 	<summary>oiloiloil.py</summary>
 
-- [oiloiloil.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/21_merge_two_sorted_lists.py)
+- [oiloiloil.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/oiloiloil.py)
 </details>
 
 ### [595_Big Countries](https://leetcode.com/problems/big-countries/)
