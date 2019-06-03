@@ -76,7 +76,9 @@
   
 ### [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 <details>
-	<summary></summary>
+	<summary>tkd9714.php</summary>
+	
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/tkd9714.php)
 </details>
 
 ### [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
