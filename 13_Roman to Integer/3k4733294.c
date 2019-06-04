@@ -1,4 +1,4 @@
-//let's brainstorm now
+//let's brainstorm now  from number to Roman 
 // I  II III IV V VI VII VIII IX X   
 // 1  2  3   4  5 6  7    8   9 10  
 // XXI XXII   21  22
@@ -28,6 +28,15 @@
 // judge every digit represent the some logic at different digit
 // o1.1 o1.1+o1.1 o1.1+o1.1+o1.1 o1.1+o1.3 o1.3  o1.3+o1.1 o1.3+o1.1+o1.1  o1.3+o1.1+o1.1+o1.1   o1.1+o1.3      o1.3
 //know every digit by divid with digicount find the digit array by digicount
-int romanToInt(char * s){
 
-}
+
+//let's brainstorm now  from Roman  to number
+//  I   IV  V
+//  V   VI  VII
+// IX   X
+
+// find I X C M  o1 next not vldn o2  if then put o1.x + o2.x
+// find o2 then if o1 then output                 o2.x + o1.x
+
+// 1 find from M to I  judge still o1 or o2 have at same row then forward to lower digit
+// if the big digit if operation/find the operation digit first , we finish then narrow the array iteration range +1 -1 iteration range
