@@ -76,8 +76,9 @@
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/tkd9714.php)
-- [oliver.py](<https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/oliver.py>)
-</details>
+- [oliver.py](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/oliver.py)
+  </details>
+  
 ### [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 <details>
 	<summary>tkd9714.php</summary>
