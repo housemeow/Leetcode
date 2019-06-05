@@ -14,7 +14,7 @@ public:
           temp = strs.at(0).at(i);
           for ( int j = 0 ; j < strs.size() ; j++ ) {
             if ( temp != strs.at(j).at(i) ) {
-              if ( i == 0 )D
+              if ( i == 0 )
                 return "";
               else
                 return str;
