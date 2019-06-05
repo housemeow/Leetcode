@@ -72,12 +72,12 @@
 
 ### [14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 <details>
-	<summary>Kellly.cpp, tkd9714.php</summary>
+	<summary>Kellly.cpp, tkd9714.php, oliver.py</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/tkd9714.php)
 - [oliver.py](<https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/oliver.py>)
-- </details>
+</details>
 ### [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 <details>
 	<summary>tkd9714.php</summary>
