@@ -76,12 +76,12 @@
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/tkd9714.php)
-  </details>
-  
+- [oliver.py](<https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/oliver.py>)
+- </details>
 ### [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 <details>
 	<summary>tkd9714.php</summary>
-	
+
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/tkd9714.php)
 </details>
 
@@ -96,14 +96,14 @@
 ### [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 <details>
 	<summary>tkd9714.php</summary>
-	
+
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/tkd9714.php)
 </details>
 
 ### [27_Remove Element](https://leetcode.com/problems/remove-element/)
 <details>
 	<summary>tkd9714.php</summary>
-	
+
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/tkd9714.php)
 </details>
 
@@ -117,14 +117,14 @@
 ### [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 <details>
 	<summary>tkd9714.php</summary>
-	
+
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/tkd9714.php)
 </details>
 
 ### [38_Count and Say](https://leetcode.com/problems/count-and-say/)
 <details>
 	<summary>tkd9714.php</summary>
-	
+
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/tkd9714.php)
 </details>
 
