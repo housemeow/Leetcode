@@ -25,7 +25,7 @@
 ## 題目清單
 ### [1_Two Sum](https://leetcode.com/problems/two-sum/)
 <details>
-	<summary>3k4733294.c, Kellly.c, Kellly.cpp, tkd9714.php</summary>
+	<summary>3k4733294.c, Dennaolan.cpp, Kellly.c, Kellly.cpp, tkd9714.php</summary>
 
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Dennaolan.cpp)
@@ -37,7 +37,7 @@
 
 ### [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 <details>
-	<summary>3k4733294.c, Kellly.cpp, tkd9714.php</summary>
+	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/3k4733294.c)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/Dennaolan.cpp)
