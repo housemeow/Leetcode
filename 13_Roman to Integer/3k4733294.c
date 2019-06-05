@@ -40,3 +40,36 @@
 
 // 1 find from M to I  judge still o1 or o2 have at same row then forward to lower digit
 // if the big digit if operation/find the operation digit first , we finish then narrow the array iteration range +1 -1 iteration range
+
+//add the 1 colum structure 
+//keep implement the array digit structure
+int romanToInt(char * s){
+    int romentoint;
+    int lens = strlen(s);
+    printf("lens %d", lens);
+    char* ptr = s;
+    for(int i = 0 ;i < lens;i++){
+        printf("%c :", *(ptr+i));
+        if(*(ptr+i)=='I'){
+            if(*(ptr+i+1)=='V'){
+                    
+            }else if(*(ptr+i+1)=='X'){
+                
+            }
+        }else if(*(ptr+i)=='V'){
+            if(*(ptr+i+1)=='I'){
+                
+            }else{
+                
+            }            
+        }else if(*(ptr+i)=='X'){
+            
+        }
+    } 
+    int i=0;
+   // while(*(ptr+i)!='\0'){
+   //     printf("at while %c :", *(ptr+i));
+   //     i++;
+   // }
+    return romentoint;
+}
