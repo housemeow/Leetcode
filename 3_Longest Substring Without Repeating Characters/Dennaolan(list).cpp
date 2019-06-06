@@ -10,7 +10,7 @@ public:
           if ( isExist( repeatList, s.at(i) ) ) {
             for ( ; !repeatList.empty() && repeatList.front() != s.at(i) ; repeatList.pop_front() );
             repeatList.pop_front();
-          } // if exist, end counting and reset
+          }
             
           repeatList.push_back( s.at(i) );
           ans = ans > repeatList.size() ? ans : repeatList.size()  ;
