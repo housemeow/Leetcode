@@ -112,8 +112,8 @@
 <details>
 	<summary>Dennaolan.cpp, oiloiloil.py, tkd9714.php</summary>
 
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/Dennaolan.cpp)
 - [oiloiloil.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/oiloiloil.py)
-- [Dennaolan.p](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/Dennaolan.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/tkd9714.php)
 </details>
 
