@@ -43,6 +43,18 @@
 
 //add the 1 colum structure 
 //keep implement the array digit structure
+int digitarray[3][3] = {
+    {1, 5, 10}, 
+    {10, 50, 100},
+    {100, 500, 1000},
+    {1000, 5000, 10000}
+};
+char roman[3][3] = {
+    {'I', 'V', 'X'}, 
+    {'X', 'L', 'C'},
+    {'C', 'D', 'M'},
+    {'M', 'N', 'Q'}
+};
 int romanToInt(char * s){
     int romentoint;
     int lens = strlen(s);
@@ -50,21 +62,28 @@ int romanToInt(char * s){
     char* ptr = s;
     for(int i = 0 ;i < lens;i++){
         printf("%c :", *(ptr+i));
-        if(*(ptr+i)=='I'){
-            if(*(ptr+i+1)=='V'){
+        
+        for(int j;j<3;j++){
+            for(int k;k<3;k++){
+                if(*(ptr+i)=='I'){
+                    if(*(ptr+i+1)=='V'){
                     
-            }else if(*(ptr+i+1)=='X'){
+                    }else if(*(ptr+i+1)=='X'){
+                    
+                }
+                }else if(*(ptr+i)=='V'){
+                    if(*(ptr+i+1)=='I'){
                 
-            }
-        }else if(*(ptr+i)=='V'){
-            if(*(ptr+i+1)=='I'){
+                }else{
                 
-            }else{
-                
-            }            
-        }else if(*(ptr+i)=='X'){
+                }            
+                }else if(*(ptr+i)=='X'){
             
+                }
+            }
         }
+        
+        
     } 
     int i=0;
    // while(*(ptr+i)!='\0'){
@@ -73,3 +92,4 @@ int romanToInt(char * s){
    // }
     return romentoint;
 }
+
