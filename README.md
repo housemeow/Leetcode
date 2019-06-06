@@ -104,7 +104,7 @@
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
-- [Dennaolan.php](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/Dennaolan.cpp)
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/Dennaolan.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/tkd9714.php)
 </details>
 
