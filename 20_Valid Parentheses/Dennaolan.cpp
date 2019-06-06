@@ -1,8 +1,9 @@
 class Solution {
 public:
     bool isValid(string s) {
+
         stack<char> checkList;
-        char test;
+
         for ( int i = 0 ; i < s.size() ; i++ ) {
           if ( s.at(i) == '(' || s.at(i) == '[' || s.at(i) == '{' )
             checkList.push( s.at(i) );
