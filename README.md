@@ -48,6 +48,8 @@
 
 - [Dennaolan.cpp
 ](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Dennaolan.cpp)
+- [Dennaolan(list).cpp
+](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Dennaolan(list).cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/tkd9714.php)
 </details>
 
