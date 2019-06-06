@@ -2,7 +2,6 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int ans = 0;
-        int temp = 0;
         list<char> repeatList;
         
         for ( int i = 0 ; i < s.size() ; i++ ) {
