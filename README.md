@@ -54,6 +54,13 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/tkd9714.php)
 </details>
 
+### [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+<details>
+	<summary>tkd9714.php</summary>
+	
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/tkd9714.php)
+</details>
+
 ### [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
