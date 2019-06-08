@@ -63,8 +63,8 @@
 
 ### [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 <details>
-	<summary>tkd9714.php, tkd9714(double loop).php</summary>
-
+	<summary>Kellly.cpp, tkd9714.php, tkd9714(double loop).php</summary>
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/Kellly.cpp)
 - [tkd9714(double loop).php](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/tkd9714(double%20loop).php)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/tkd9714.php)
 </details>
