@@ -24,7 +24,10 @@ class Solution {
                 $j--;
                 while($j > 0)
                 {
-                    $i++;
+                    if ($i < strlen($s))
+                        $i++;
+                    else
+                        break;
                     $ans[$j] .= $s[$i];
                     $j--;
                 }
