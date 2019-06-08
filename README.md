@@ -79,6 +79,12 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/tkd9714.php)
 </details>
 
+### [8_String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+<details>
+	<summary>tkd9714.php</summary>
+	
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/tkd9714.php)
+</details>
 
 ### [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 <details>
