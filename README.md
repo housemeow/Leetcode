@@ -58,7 +58,7 @@
 <details>
 	<summary>Kellly.cpp</summary>
 	
-- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/4_%20Median%20of%20Two%20Sorted%20Arrays/Kellly.cpp)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/4_Median%20of%20Two%20Sorted%20Arrays/Kellly.cpp)
 </details>
 
 ### [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
