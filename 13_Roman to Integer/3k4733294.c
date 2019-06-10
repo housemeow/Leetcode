@@ -43,53 +43,56 @@
 
 //add the 1 colum structure 
 //keep implement the array digit structure
-int digitarray[3][3] = {
+int digitarray[4][3] = {
     {1, 5, 10}, 
     {10, 50, 100},
     {100, 500, 1000},
     {1000, 5000, 10000}
 };
-char roman[3][3] = {
+char roman[4][3] = {
     {'I', 'V', 'X'}, 
     {'X', 'L', 'C'},
     {'C', 'D', 'M'},
     {'M', 'N', 'Q'}
 };
 int romanToInt(char * s){
-    int romentoint;
+    int romentoint = 0;
+    bool countflag = 0;
     int lens = strlen(s);
-    printf("lens %d", lens);
     char* ptr = s;
-    for(int i = 0 ;i < lens;i++){
-        printf("%c :", *(ptr+i));
-        
-        for(int j;j<3;j++){
-            for(int k;k<3;k++){
-                if(*(ptr+i)=='I'){
-                    if(*(ptr+i+1)=='V'){
-                    
-                    }else if(*(ptr+i+1)=='X'){
-                    
+    for(int i=0;i<lens;i++){
+        for(int j=3;j>=0;j--){
+                if(*(ptr+i)==roman[j][0]){  //'I'
+                    if(*(ptr+i+1)==roman[j][1]){ //'V'
+                        romentoint = romentoint + digitarray[j][1] - digitarray[j][0];
+                        countflag=1;
+                        break;
+                    }else if(*(ptr+i+1)==roman[j][2]){ //'X'
+                        romentoint = romentoint + digitarray[j][2] - digitarray[j][0];
+                        countflag=1;
+                        break;
+                    }else{
+                        romentoint = romentoint + digitarray[j][0];
+                        break;
+                    }
+                }else if(*(ptr+i)==roman[j][1]){ //'V'
+                    if(*(ptr+i+1)==roman[j][0]){ //'I'
+                        romentoint = romentoint + digitarray[j][1] + digitarray[j][0];
+                        countflag=1;
+                        break;
+                    }else{
+                        romentoint = romentoint + digitarray[j][1];
+                        break;
+                    }            
+                }else if(*(ptr+i)==roman[j][2]){ //'x'
+                        romentoint = romentoint + digitarray[j][2];
+                        break;
                 }
-                }else if(*(ptr+i)=='V'){
-                    if(*(ptr+i+1)=='I'){
-                
-                }else{
-                
-                }            
-                }else if(*(ptr+i)=='X'){
-            
-                }
-            }
         }
-        
-        
+        if(countflag==1){
+            i++;
+            countflag=0;
+        }
     } 
-    int i=0;
-   // while(*(ptr+i)!='\0'){
-   //     printf("at while %c :", *(ptr+i));
-   //     i++;
-   // }
     return romentoint;
 }
-
