@@ -64,8 +64,9 @@
 
 ### [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>Kelllycpp, tkd9714.php</summary>
 	
+- [Kelllycpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/tkd9714.php)
 </details>
 
