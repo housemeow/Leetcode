@@ -14,7 +14,7 @@ public:
             break;
           else if ( i == j ) { // 觸底，如果還沒找到答案的話，回傳該字符
             if ( ans.size() == 0 )
-              return s.at(i);
+              ans = s.at(i);
           }
             
           if ( ( j - i ) % 2 == 0 ) { // 檢查的長度為偶數
@@ -27,14 +27,14 @@ public:
           } // else 檢查的長度為奇數
 
         } // for j
-      } // i
+      } // for i
         
       return ans;
     }
     
 private:
 
-    string reverse( string s ) {
+    string reverse( string s ) { // 字串反轉
       string ans;
       for ( int i = 0 ; i < s.size() ; i++ )
         ans += s[(s.size()-1)-i];
@@ -42,7 +42,7 @@ private:
       return ans;
     }
     
-    bool checkRepeat( string s ) {
+    bool checkRepeat( string s ) { // 確認字串中是不是有複數個奇數字符
       int checkList[256];
       bool check;
       
@@ -70,7 +70,7 @@ private:
       return false;
     }
 
-    bool same( int checkList[256] ) {
+    bool same( int checkList[256] ) { // 確認字串是否都為同一字符組成
       bool check;
         
       check = false;        
@@ -85,7 +85,7 @@ private:
       return true;
     }
           
-    int findPosition( int checkList[256], string s ) {
+    int findPosition( int checkList[256], string s ) { // 找出奇數個字符的最接近中央的位置
       int addr;
       char ch;
         
@@ -96,9 +96,9 @@ private:
           for ( int j = 0 ; j < s.size() ; j++ ) {
             if ( s[j] == ch ) {
               addr = j;
-              if ( addr == s.size() / 2 )
+              if ( addr >= s.size() / 2 )
                 return addr;
-            }
+            } // 如果相符就賦值，如果超過中間就立刻回傳
           }
         }
 
