@@ -8,10 +8,10 @@ public:
       for ( int i = 0 ; i < s.size() ; i++ ) {
         for ( int j = s.size() - 1 ; j >= i ; j-- ) {
 
-          if ( s.at(i) != s.at(j) || checkRepeat( s.substr(i,j-i+1) ) ) // 條件不符( 頭尾不同 || 字串內有多個奇數字符 )，跳過這輪驗證
-            continue;
-          else if ( j-i < ans.size() ) // 要檢查的內容比已知的答案還短，跳過這一組
+          if ( j-i < ans.size() ) // 要檢查的內容比已知的答案還短，跳過這一組
             break;
+          else if ( s.at(i) != s.at(j) || checkRepeat( s.substr(i,j-i+1) ) ) // 條件不符( 頭尾不同 || 字串內有多個奇數字符 )，跳過這輪驗證
+            continue;
           else if ( i == j ) { // 觸底，如果還沒找到答案的話，回傳該字符
             if ( ans.size() == 0 )
               ans = s.at(i);
