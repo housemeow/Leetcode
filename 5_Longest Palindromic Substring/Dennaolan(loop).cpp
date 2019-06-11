@@ -2,28 +2,32 @@ class Solution {
 public:
     string longestPalindrome(string s) {
       string ans;
-      if ( s.empty() )
-        return ans;
+      if ( s.empty() ) // 字串為空，回傳空字串
+        return s;
       
       for ( int i = 0 ; i < s.size() ; i++ ) {
         for ( int j = s.size() - 1 ; j >= i ; j-- ) {
-          if ( s.at(i) != s.at(j) )
+
+          if ( s.at(i) != s.at(j) || checkRepeat( s.substr(i,j-i+1) ) ) // 條件不符( 頭尾不同 || 字串內有多個奇數字符 )，跳過這輪驗證
             continue;
-          else if ( i == j ) {
+          else if ( j-i < ans.size() ) // 要檢查的內容比已知的答案還短，跳過這一組
+            break;
+          else if ( i == j ) { // 觸底，如果還沒找到答案的話，回傳該字符
             if ( ans.size() == 0 )
-              ans = s.at(i);
+              return s.at(i);
           }
             
-          if ( ( j - i ) % 2 == 0 ) {
+          if ( ( j - i ) % 2 == 0 ) { // 檢查的長度為偶數
             if ( s.substr( i, (j-i)/2 ) == reverse( s.substr( i+(j-i)/2+1 , (j-i)/2 ) ) )
               ans = ans.size() > s.substr( i, j-i+1 ).size() ? ans : s.substr( i, j-i+1 ) ;
-          }
-          else {
+          } // if 檢查的長度為偶數
+          else { // 檢查的長度為奇數
             if ( s.substr( i, (j-i+1)/2 ) == reverse( s.substr( i+(j-i)/2+1, (j-i+1)/2 ) ) )
               ans = ans.size() > s.substr( i, j-i+1 ).size() ? ans : s.substr( i, j-i+1 ) ;
-          }
-        }
-      }
+          } // else 檢查的長度為奇數
+
+        } // for j
+      } // i
         
       return ans;
     }
@@ -36,5 +40,27 @@ private:
         ans += s[(s.size()-1)-i];
         
       return ans;
+    }
+    
+    bool checkRepeat( string s ) {
+      int checkList[256];
+      bool check;
+      
+      for ( int i = 0 ; i < 256 ; i++ )
+        checkList[i] = 0;
+        
+      for ( int i = 0 ; i < s.size() ; i++ )
+        checkList[s.at(i)]++;
+    
+      check = false;
+      for ( int i = 0 ; i < 256 ; i++ ) {
+        if ( checkList[i] % 2 != 0 ) {
+          check = !check;
+          if ( !check )
+            return true;
+        } 
+      }
+         
+      return false;
     }
 };
