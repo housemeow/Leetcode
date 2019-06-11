@@ -17,41 +17,26 @@ public:
         int maxSize = 1;
 
         for (int middle = 0; middle < s.length(); middle++) {
-            int size = maxSize,
-                start = middle - (size - 1) / 2,
-                end = middle + size / 2;
-
-            if (start >=0 && end < s.length()) {
-                if (mirror(s, start, end)) {
-                    maxSize = size;
-                    index = start;
-                    
-                    for (start--, end++; start >=0 && end < s.length(); start--, end++) {
-                        if (s[start] == s[end]) {
-                            maxSize += 2;
+            for (int i = 0; i <= 1; i++) {
+                // try odd, even length substring
+                int size = maxSize + i,
+                    start = middle - (size - 1) / 2,
+                    end = middle + size / 2;
+                
+                if (start >=0 && end < s.length()) {
+                    if (mirror(s, start, end)) {
+                        if (size > maxSize) {
+                            maxSize = size;
                             index = start;
-                        } else {
-                            break;
                         }
-                    }
-                }
-            }
-            
-            size = maxSize + 1;
-            start = middle - (size - 1) / 2;
-            end = middle + size / 2;
 
-            if (start >=0 && end < s.length()) {
-                if (mirror(s, start, end)) {
-                    maxSize = size;
-                    index = start;
-                    
-                    for (start--, end++; start >=0 && end < s.length(); start--, end++) {
-                        if (s[start] == s[end]) {
-                            maxSize += 2;
-                            index = start;
-                        } else {
-                            break;
+                        for (start--, end++, size += 2; start >=0 && end < s.length(); start--, end++, size += 2) {
+                            if (s[start] == s[end] && size > maxSize) {
+                                maxSize = size;
+                                index = start;
+                            } else {
+                                break;
+                            }
                         }
                     }
                 }
