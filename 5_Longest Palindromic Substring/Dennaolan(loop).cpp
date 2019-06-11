@@ -46,6 +46,9 @@ private:
       int checkList[256];
       bool check;
       
+      if ( s.size() == 1 )
+        return false;
+        
       for ( int i = 0 ; i < 256 ; i++ )
         checkList[i] = 0;
         
@@ -60,7 +63,47 @@ private:
             return true;
         } 
       }
-         
+      
+      if ( check && ( s.size() % 2 == 0 || ( ( findPosition( checkList , s ) != s.size() / 2 ) && !same( checkList ) ) ) )
+        return true;
+
       return false;
+    }
+
+    bool same( int checkList[256] ) {
+      bool check;
+        
+      check = false;        
+      for ( int i = 0 ; i < 256 ; i++ ) {
+        if( checkList[i] != 0 ) {
+          check = !check;
+          if ( !check )
+            return false;
+        }
+      }
+        
+      return true;
+    }
+          
+    int findPosition( int checkList[256], string s ) {
+      int addr;
+      char ch;
+        
+      addr = 0;
+      for ( int i = 0 ; i < 256 ; i++ ) {
+        if ( checkList[i] % 2 != 0 ) {
+          ch = i;
+          for ( int j = 0 ; j < s.size() ; j++ ) {
+            if ( s[j] == ch ) {
+              addr = j;
+              if ( addr == s.size() / 2 )
+                return addr;
+            }
+          }
+        }
+
+      }
+        
+      return 0;
     }
 };
