@@ -94,11 +94,8 @@ private:
         if ( checkList[i] % 2 != 0 ) {
           ch = i;
           for ( int j = 0 ; j < s.size() ; j++ ) {
-            if ( s[j] == ch ) {
-              addr = j;
-              if ( addr >= s.size() / 2 )
-                return addr;
-            } // 如果相符就賦值，如果超過中間就立刻回傳
+            if ( s[s.size() / 2] == ch ) // 如果相符就賦值，如果超過中間就立刻回傳
+              return ( s.size() / 2 );
           }
         }
 
