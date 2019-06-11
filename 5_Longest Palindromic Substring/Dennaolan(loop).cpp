@@ -86,17 +86,15 @@ private:
     }
           
     int findPosition( int checkList[256], string s ) { // 找出奇數個字符的最接近中央的位置
-      int addr;
       char ch;
-        
-      addr = 0;
+
       for ( int i = 0 ; i < 256 ; i++ ) {
         if ( checkList[i] % 2 != 0 ) {
           ch = i;
-          for ( int j = 0 ; j < s.size() ; j++ ) {
-            if ( s[s.size() / 2] == ch ) // 如果相符就賦值，如果超過中間就立刻回傳
-              return ( s.size() / 2 );
-          }
+          if ( s[s.size() / 2] == ch ) // 如果中間等於該就立刻回傳
+            return ( s.size() / 2 );
+          else
+            return 0;
         }
 
       }
