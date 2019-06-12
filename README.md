@@ -65,11 +65,12 @@
 
 ### [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 <details>
-	<summary>Kellly.cpp, Kellly(middle).cpp tkd9714.php</summary>
+	<summary>Kellly.cpp, Kellly(middle).cpp, tkd9714.php3, k4733294.c</summary>
 	
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Kellly.cpp)
 - [Kellly(middle).cpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Kellly(middle).cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/tkd9714.php)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/3k4733294.c)
 </details>
 
 ### [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
