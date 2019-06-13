@@ -23,7 +23,8 @@
 </details>
 
 ## 題目清單
-### [1_Two Sum](https://leetcode.com/problems/two-sum/)
+### [1_Two Sum](https://leetcode.com/problems/two-sum/) 
+<font color="white">要反白的文字<font>
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.c, Kellly.cpp, tkd9714.php</summary>
 
