@@ -28,7 +28,7 @@
 - ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) Easy
 
 ## 題目清單
-### [1_Two Sum](https://leetcode.com/problems/two-sum/) 
+### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [1_Two Sum](https://leetcode.com/problems/two-sum/) 
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.c, Kellly.cpp, tkd9714.php</summary>
 
@@ -39,7 +39,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php)
 </details>
 
-### [2_Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [2_Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 	
