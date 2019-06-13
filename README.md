@@ -57,7 +57,7 @@
 - [Dennaolan(list).cpp
 ](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Dennaolan(list).cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Kellly.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/tkd9714.php) 20 ms (**90.96%**), 15 MB (**44.41%**)
 </details>
 
 ### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [4_Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
@@ -65,7 +65,7 @@
 	<summary>Kellly.cpp, tkd9714.php</summary>
 	
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/4_Median%20of%20Two%20Sorted%20Arrays/Kellly.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/4_Median%20of%20Two%20Sorted%20Arrays/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/4_Median%20of%20Two%20Sorted%20Arrays/tkd9714.php) 36 ms (**90.63%**), 15 MB (**62.18%**)
 </details>
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
@@ -74,7 +74,7 @@
 	
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Kellly.cpp)
 - [Kellly(middle).cpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Kellly(middle).cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/tkd9714.php) 28 ms (**98.09%**), 14.9 MB (**64.03%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/3k4733294.c) 220 ms (**17.41%**), 7.1 MB (**62.68%**)
 </details>
 
@@ -84,7 +84,7 @@
 	
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/Kellly.cpp)
 - [tkd9714(double loop).php](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/tkd9714(double%20loop).php)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/tkd9714.php) 12 ms (**98.59%**), 14.8 MB (**94.74%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
