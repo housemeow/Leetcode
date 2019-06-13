@@ -130,8 +130,8 @@
 <details>
 	<summary>tkd9714.php, tkd9714(faster).php</summary>
 	
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/tkd9714.php)
-- [tkd9714(faster).php](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/tkd9714(faster).php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/tkd9714.php) 28 ms (**71.60%**), 14.9 MB (**57.14%**)
+- [tkd9714(faster).php](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/tkd9714(faster).php) 12 ms (**95.06%**), 14.7 MB (**58.00%)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
