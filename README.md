@@ -141,7 +141,7 @@
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/3k4733294.c) 8 ms (**87.25%**), 7.2 MB (**55.72%**)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/Kellly.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/tkd9714.php) 16 ms (**91.45%**), 15 MB (**17.07%**)
 </details>
 
 
@@ -151,7 +151,7 @@
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/Kellly.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/tkd9714.php) 0 ms (**100%**), 14.8 MB (**87.59%**)
 - [oliver.py](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/oliver.py)
   </details>
   
@@ -160,7 +160,7 @@
 	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/Dennaolan.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/tkd9714.php) 8 ms (**92.02%**), 14.9 MB (**70.70%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
