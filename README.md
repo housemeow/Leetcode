@@ -190,21 +190,21 @@
 <details>
 	<summary>tkd9714.php</summary>
 
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/tkd9714.php) 8 ms (**88.33%**), 14.9 MB (**74.65%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 <details>
 	<summary>tkd9714.php</summary>
 
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/tkd9714.php) 12 ms (**90.20%**), 16 MB (**18.52%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [38_Count and Say](https://leetcode.com/problems/count-and-say/)
 <details>
 	<summary>tkd9714.php</summary>
 
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/tkd9714.php) 4 ms (**98.39%**), 14.8 MB (**65.00%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [595_Big Countries](https://leetcode.com/problems/big-countries/)
