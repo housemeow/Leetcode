@@ -60,7 +60,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/tkd9714.php)
 </details>
 
-### [4_Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [4_Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 <details>
 	<summary>Kellly.cpp, tkd9714.php</summary>
 	
