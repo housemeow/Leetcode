@@ -32,11 +32,11 @@
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.c, Kellly.cpp, tkd9714.php</summary>
 
-- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c)128 ms (**76.77%**), 7.5 MB (**82.55%**)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Dennaolan.cpp)
 - [Kellly.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.c)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php) 156 ms (**57.51%**), 15.9 MB (**43.77%**)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php)
 </details>
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [2_Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
@@ -75,7 +75,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Kellly.cpp)
 - [Kellly(middle).cpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Kellly(middle).cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/tkd9714.php)
-- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/3k4733294.c)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/3k4733294.c)220 ms (**17.41%**), 7.1 MB (**62.68%**)
 </details>
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
@@ -91,7 +91,7 @@
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
-- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/3k4733294.c)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/3k4733294.c)4 ms (**93.32%**), 6.9 MB (**64.19%**)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/tkd9714.php)
@@ -108,7 +108,7 @@
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly(list).cpp, Kellly(math).cpp, Kellly.(stack&queue).cpp, tkd9714.php, 9_palindrome_number.py</summary>
 
-- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/3k4733294.c)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/3k4733294.c)0 ms (**100%**), 7.2 MB (**78.1%**)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Dennaolan.cpp)
 - [Kellly(list).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly(list).cpp)
 - [Kellly(math).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly(math).cpp)
@@ -138,7 +138,7 @@
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
-- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/3k4733294.c)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/3k4733294.c)8 ms (**87.25%**), 7.2 MB (**55.72%**)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/tkd9714.php)
@@ -222,7 +222,7 @@
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
-- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/3k4733294.c)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/3k4733294.c)0 ms (**100%**), 6.9 MB (**5.06%**)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/tkd9714.php)
@@ -233,7 +233,7 @@
 <details>
 	<summary>3k4733294.cpp, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
-- [3k4733294.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/3k4733294.cpp)
+- [3k4733294.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/3k4733294.cpp)24 ms (**87.83%**), 8.5 MB (**66.26%**)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/771_Jewels%20and%20Stones/tkd9714.php)
