@@ -23,12 +23,12 @@
 
 ### 色塊標示題目難易度
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Hard
-- ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Medium
-- ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) Easy
+- ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) Hard
+- ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) Medium
+- ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) Easy
 
 ## 題目清單
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [1_Two Sum](https://leetcode.com/problems/two-sum/) 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [1_Two Sum](https://leetcode.com/problems/two-sum/) 
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.c, Kellly.cpp, tkd9714.php</summary>
 
@@ -39,16 +39,16 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php)
 </details>
 
-### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [2_Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [2_Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 	
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/2_Add%20Two%20Numbers/Dennaolan.cpp)
-- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/2_Add%20Two%20Numbers/Kellly.cpp)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/2_Add%20Two%20Numbers/Kellly.cpp) 24 ms (**87.83%**), 9.8 MB (**97.72%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/2_Add%20Two%20Numbers/tkd9714.php)
 </details>
 
-### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [3_Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [3_Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 <details>
 	<summary>Dennaolan.cpp, Dennaolan(list).cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -60,7 +60,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/tkd9714.php)
 </details>
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [4_Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [4_Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 <details>
 	<summary>Kellly.cpp, tkd9714.php</summary>
 	
@@ -68,7 +68,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/4_Median%20of%20Two%20Sorted%20Arrays/tkd9714.php)
 </details>
 
-### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 <details>
 	<summary>Kellly.cpp, Kellly(middle).cpp, tkd9714.php3, k4733294.c</summary>
 	
@@ -78,7 +78,7 @@
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/3k4733294.c)
 </details>
 
-### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 <details>
 	<summary>Kellly.cpp, tkd9714.php, tkd9714(double loop).php</summary>
 	
@@ -87,7 +87,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/tkd9714.php)
 </details>
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -97,14 +97,14 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/tkd9714.php)
 </details>
 
-### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [8_String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [8_String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 <details>
 	<summary>tkd9714.php</summary>
 	
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/tkd9714.php)
 </details>
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly(list).cpp, Kellly(math).cpp, Kellly.(stack&queue).cpp, tkd9714.php, 9_palindrome_number.py</summary>
 
@@ -117,7 +117,7 @@
 - [9_palindrome_number.py](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/pyhton3/9_palindrome_number.py)
 </details>
 
-### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [11_Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [11_Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 <details>
 	<summary>Kellly(ignoreLowerHeight).cpp, Kellly.cpp, tkd9714.php</summary>
 	
@@ -126,7 +126,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/11_Container%20With%20Most%20Water/tkd9714.php)
 </details>
 
-### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [12_Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [12_Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 <details>
 	<summary>tkd9714.php, tkd9714(faster).php</summary>
 	
@@ -134,7 +134,7 @@
 - [tkd9714(faster).php](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/tkd9714(faster).php)
 </details>
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -145,7 +145,7 @@
 </details>
 
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, oliver.py</summary>
 
@@ -155,7 +155,7 @@
 - [oliver.py](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/oliver.py)
   </details>
   
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
@@ -163,7 +163,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/tkd9714.php)
 </details>
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 <details>
 	<summary>Dennaolan.cpp, oiloiloil.py, tkd9714.php</summary>
 
@@ -172,42 +172,42 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/tkd9714.php)
 </details>
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 <details>
 	<summary>tkd9714.php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/tkd9714.php)
 </details>
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [27_Remove Element](https://leetcode.com/problems/remove-element/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [27_Remove Element](https://leetcode.com/problems/remove-element/)
 <details>
 	<summary>tkd9714.php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/tkd9714.php)
 </details>
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [28_Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [28_Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 <details>
 	<summary>tkd9714.php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/tkd9714.php)
 </details>
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 <details>
 	<summary>tkd9714.php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/tkd9714.php)
 </details>
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [38_Count and Say](https://leetcode.com/problems/count-and-say/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [38_Count and Say](https://leetcode.com/problems/count-and-say/)
 <details>
 	<summary>tkd9714.php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/tkd9714.php)
 </details>
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [595_Big Countries](https://leetcode.com/problems/big-countries/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [595_Big Countries](https://leetcode.com/problems/big-countries/)
 
 <details>
 	<summary>Dennaolan.sql, Kellly.sql, tkd9714.sql</summary>
@@ -218,7 +218,7 @@
 </details>
 
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [709_To Lower Case](https://leetcode.com/problems/to-lower-case/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [709_To Lower Case](https://leetcode.com/problems/to-lower-case/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -229,7 +229,7 @@
 </details>
 
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [771_Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [771_Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 <details>
 	<summary>3k4733294.cpp, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -240,7 +240,7 @@
 </details>
 
 
-### [![#77ff00](https://placehold.it/15/77ff00/000000?text=+) 804_Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+### [![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) 804_Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -250,7 +250,7 @@
 </details>
 
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [832_Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [832_Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -260,7 +260,7 @@
 </details>
 
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [905_Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [905_Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -270,7 +270,7 @@
 </details>
 
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [929_Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [929_Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -280,7 +280,7 @@
 </details>
 
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [938_Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [938_Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 <details>
 	<summary>Dennaolan.cpp</summary>
 
@@ -288,7 +288,7 @@
 </details>
 
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [961_N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [961_N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -298,7 +298,7 @@
 </details>
 
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [977_Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [977_Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
@@ -307,7 +307,7 @@
 </details>
 
 
-### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [1021_Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [1021_Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 <details>
 	<summary>Dennaolan.cpp</summary>
 
