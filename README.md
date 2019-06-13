@@ -48,7 +48,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/2_Add%20Two%20Numbers/tkd9714.php)
 </details>
 
-### [3_Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [3_Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 <details>
 	<summary>Dennaolan.cpp, Dennaolan(list).cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -68,7 +68,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/4_Median%20of%20Two%20Sorted%20Arrays/tkd9714.php)
 </details>
 
-### [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 <details>
 	<summary>Kellly.cpp, Kellly(middle).cpp, tkd9714.php3, k4733294.c</summary>
 	
@@ -78,7 +78,7 @@
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/3k4733294.c)
 </details>
 
-### [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 <details>
 	<summary>Kellly.cpp, tkd9714.php, tkd9714(double loop).php</summary>
 	
@@ -97,7 +97,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/tkd9714.php)
 </details>
 
-### [8_String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [8_String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 <details>
 	<summary>tkd9714.php</summary>
 	
@@ -117,7 +117,7 @@
 - [9_palindrome_number.py](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/pyhton3/9_palindrome_number.py)
 </details>
 
-### [11_Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [11_Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 <details>
 	<summary>Kellly(ignoreLowerHeight).cpp, Kellly.cpp, tkd9714.php</summary>
 	
@@ -126,7 +126,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/11_Container%20With%20Most%20Water/tkd9714.php)
 </details>
 
-### [12_Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+### ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) [12_Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 <details>
 	<summary>tkd9714.php, tkd9714(faster).php</summary>
 	
