@@ -23,8 +23,9 @@
 
 ### 色塊標示題目難易度
 
-### - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Hard
-### - ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) Easy
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Hard
+- ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Medium
+- ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) Easy
 
 ## 題目清單
 ### [1_Two Sum](https://leetcode.com/problems/two-sum/) 
