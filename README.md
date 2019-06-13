@@ -169,21 +169,21 @@
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/Dennaolan.cpp)
 - [oiloiloil.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/oiloiloil.py)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/tkd9714.php) 4 ms (**95.49%**), 14.9 MB (**37.35%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 <details>
 	<summary>tkd9714.php</summary>
 
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/tkd9714.php) 20 ms (**96.59%**), 17.6 MB (**12.04%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [27_Remove Element](https://leetcode.com/problems/remove-element/)
 <details>
 	<summary>tkd9714.php</summary>
 
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/tkd9714.php) 8 ms (**85.62%**), 14.7 MB (**89.01%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [28_Implement strStr()](https://leetcode.com/problems/implement-strstr/)
