@@ -123,9 +123,10 @@
 
 ### [12_Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>tkd9714.php, tkd9714(faster).php</summary>
 	
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/tkd9714.php)
+- [tkd9714(faster).php](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/tkd9714(faster).php)
 </details>
 
 ### [13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
