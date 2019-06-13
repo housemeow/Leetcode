@@ -87,7 +87,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/tkd9714.php)
 </details>
 
-### [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -104,7 +104,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/tkd9714.php)
 </details>
 
-### [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly(list).cpp, Kellly(math).cpp, Kellly.(stack&queue).cpp, tkd9714.php, 9_palindrome_number.py</summary>
 
@@ -134,7 +134,7 @@
 - [tkd9714(faster).php](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/tkd9714(faster).php)
 </details>
 
-### [13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -145,7 +145,7 @@
 </details>
 
 
-### [14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+### ![#77ff00](https://placehold.it/15/77ff00/000000?text=+) [14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, oliver.py</summary>
 
