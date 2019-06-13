@@ -24,7 +24,7 @@
 
 ## 題目清單
 ### [1_Two Sum](https://leetcode.com/problems/two-sum/) 
-<fornt color=#7FFF00>easy </fornt>
+<font color=#7FFF00 >easy </font>
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.c, Kellly.cpp, tkd9714.php</summary>
 
