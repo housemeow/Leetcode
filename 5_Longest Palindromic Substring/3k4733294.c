@@ -25,13 +25,16 @@ char * longestPalindrome(char * s){
     bool reverse_mismatch_flag=0;
     bool findresult=0;
     for(unsigned short j=maxws;j>=2;j--){  //the windowsize  
-        unsigned short ismiddlenum = (j/2+1)-1;
+        unsigned short ismiddlenum = (j/2);
+        unsigned short isodd = (j)%2;
+        re_wnsize=j; //store the windowsize for result find at s input
         for(unsigned short i=0;i<=maxws-j;i++){ // the position move
             re_position=i; //store the positon for result find at s input
             for(unsigned short k=0;k<j;k++){ // the position store char with windowsize
-                re_wnsize=k; //store the windowsize for result find at s input
-                unsigned short isodd = (k+1)%2;
-                if(isodd!=0&&j-k+1==ismiddlenum){ //find if the windowsize are odd and is middle num do nothing
+                if(isodd!=0&&j-k+1==ismiddlenum+1){ //find if the windowsize are odd and is middle num then break
+                    break;
+                }else if(isodd==0&&j-k+1==ismiddlenum){ //find if the windowsize are even and is middle num then break
+                    break;
                 }else{
                     if(s[j-k+i-1]!=s[i+k]){ // every char reverse store it and check the some position with origin chararray is same or not at some time
                     reverse_mismatch_flag=1;  //if not the same then jump out the store reverse try another situation.
@@ -53,9 +56,14 @@ char * longestPalindrome(char * s){
         }
     }
     char* char_result = calloc(re_wnsize+2, sizeof(char)); //add 1 is wnsize start from 1 another 1 is for ref '/0'
-    for(unsigned short i=0;i<re_wnsize+1;i++){
+    if(findresult == 0){
+        char_result[0]=s[0];
+    }else{
+        for(unsigned short i=0;i<re_wnsize;i++){
         char_result[i]=s[re_position+i];
+        } 
     }
+  
     
     return char_result;
 }
