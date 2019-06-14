@@ -165,10 +165,11 @@
   
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/Dennaolan.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/tkd9714.php) 8 ms (**92.02%**), 14.9 MB (**70.70%**)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/k4733294-patch-1-20-Valid-Parentheses/20_Valid%20Parentheses/3k4733294.c)cont...
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
