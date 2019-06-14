@@ -304,7 +304,7 @@
 	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/Dennaolan.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/tkd9714.php) 76 ms (**97.35%**),  17.5 MB (**63.22%**)
 </details>
 
 
