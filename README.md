@@ -43,7 +43,7 @@
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 	
-- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/2_Add%20Two%20Numbers/Dennaolan.cpp)
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/2_Add%20Two%20Numbers/Dennaolan.cpp) 16 ms (**99.28%**), 10.9 MB (**40.89%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/2_Add%20Two%20Numbers/Kellly.cpp) 24 ms (**87.83%**), 9.8 MB (**97.72%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/2_Add%20Two%20Numbers/tkd9714.php) 16 ms (**97.34%**), 14.8 MB (**58.16%**)
 </details>
