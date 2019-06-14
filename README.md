@@ -148,7 +148,7 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 <details>
-	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, oliver.py</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, oliver.py, 3k4733294.c</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/Kellly.cpp)
@@ -278,7 +278,7 @@
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/929_Unique%20Email%20Addresses/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/929_Unique%20Email%20Addresses/Kellly.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/929_Unique%20Email%20Addresses/tkd9714.php) 20 ms (**87.74%**),  15.2 MB (**19.77%**)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/929_Unique%20Email%20Addresses/tkd9714.php)
 </details>
 
 
