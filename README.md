@@ -154,8 +154,8 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/tkd9714.php) 0 ms (**100%**), 14.8 MB (**87.59%**)
 - [oliver.py](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/oliver.py)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/3k4733294.c) 0 ms (**100%**), 7.3 MB (**45.72%**)
   </details>
-  - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/3k4733294.c) 0 ms (**100%**), 7.3 MB (**45.72%**)
   
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 <details>
