@@ -70,8 +70,9 @@
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 <details>
-	<summary>Kellly.cpp, Kellly(middle).cpp, tkd9714.php3, k4733294.c</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp, Kellly(middle).cpp, tkd9714.php3, k4733294.c</summary>
 	
+- [Dennaalan.cpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Kellly.cpp)
 - [Kellly(middle).cpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Kellly(middle).cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/tkd9714.php) 28 ms (**98.09%**), 14.9 MB (**64.03%**)
