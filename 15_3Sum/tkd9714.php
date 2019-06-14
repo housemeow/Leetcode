@@ -6,51 +6,52 @@ class Solution {
      */
     function threeSum($nums) {
         $ans = [];
-        $array =[];
-        if (count($nums) < 3)
+        sort($nums);
+        for ($i = 0; $i < count($nums) -1; $i++)
         {
-            return $ans;
-        }
-        else;
-        
-        for($i = 0; $i < count($nums)-1; $i++)
-        {
-            for ($j = 0; $j < count($nums); $j++)
-            {
-                if ($j === $i)
-                    $j++;
-                else;
-                
-                $num1 = $nums[$i];
-                $num2 = $nums[$j];
-                $num3 = $num1 + $num2;
-                $num3 *= -1;
+            if ($nums[$i] > 0)
+                return $ans;
+            
+            # 避免重複
+            if ($i - 1 >= 0 && $nums[$i] === $nums[$i-1])
+                continue;
+            
+            # j 左往右
+            # k 右往左
+            $j = $i + 1;
+            $k = count($nums) - 1;
 
-                if ($this->inArray($nums, $i, $j, $num3))
+            while ($j < $k)
+            {
+                $sum = $nums[$i] + $nums[$j] + $nums[$k];
+
+                if (0 === $sum)
                 {
-                    array_push($array,$num1,$num2,$num3);
-                    sort($array);
-                    $ans[$k] = $array;
-                    $k++;
-                    $array = [];
+                    $ans[] = [$nums[$i], $nums[$j], $nums[$k]];
+                    $j++;
+                    $k--;
+                    
+                    while($j < $k && $nums[$j] === $nums[$j-1])
+                    {
+                        $j++;
+                    }
+                    
+                    while ($j < $k && $nums[$k] === $nums[$k+1])
+                    {
+                        $k--;
+                    }
+                }
+                else if ($sum < 0)
+                {
+                    $j++;
+                }
+                else
+                {
+                    $k--;
                 }
             }
         }
-        return array_unique($ans, SORT_REGULAR);
-    }
-
-    
-    function inArray($array, $index1, $index2, $num3)
-    {
-        foreach($array as $key => $value)
-        {
-            if (($key != $index1) && ($key != $index2) && ($value === $num3))
-            {
-                return true;
-            }
-            else;
-        }
         
-        return false;
+        return $ans;
     }
 }
