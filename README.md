@@ -33,7 +33,7 @@
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.c, Kellly.cpp, tkd9714.php</summary>
 
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c) 128 ms (**76.77%**), 7.5 MB (**82.55%**)
-- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Dennaolan.cpp)
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Dennaolan.cpp) 148 ms (**24.97%**), 9.3 MB (**81.64%**)
 - [Kellly.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.c)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php) 156 ms (**57.51%**), 15.9 MB (**43.77%**)
@@ -55,7 +55,7 @@
 - [Dennaolan.cpp
 ](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Dennaolan.cpp)
 - [Dennaolan(list).cpp
-](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Dennaolan(list).cpp)
+](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Dennaolan(list).cpp) 452 ms (**11.00%**), 214.1 MB (**7.87%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/tkd9714.php) 20 ms (**90.96%**), 15 MB (**44.41%**)
 </details>
