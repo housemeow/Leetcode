@@ -53,7 +53,7 @@
 	<summary>Dennaolan.cpp, Dennaolan(list).cpp, Kellly.cpp, tkd9714.php</summary>
 
 - [Dennaolan.cpp
-](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Dennaolan.cpp) **Time Limit Exceeded**
+](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Dennaolan.cpp)
 - [Dennaolan(list).cpp
 ](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Dennaolan(list).cpp) 452 ms (**11.00%**), 214.1 MB (**7.87%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/Kellly.cpp)
@@ -155,6 +155,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/tkd9714.php) 0 ms (**100%**), 14.8 MB (**87.59%**)
 - [oliver.py](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/oliver.py)
   </details>
+  - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/3k4733294.c) 0 ms (**100%**), 7.3 MB (**45.72%**)
   
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 <details>
@@ -295,7 +296,7 @@
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Kellly.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/tkd9714.php) 68 ms (**94.57%**),  16.2 MB (**33.33%**)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/tkd9714.php)
 </details>
 
 
@@ -304,7 +305,7 @@
 	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/Dennaolan.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/tkd9714.php) 76 ms (**97.35%**),  17.5 MB (**63.22%**)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/tkd9714.php)
 </details>
 
 
