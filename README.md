@@ -268,7 +268,7 @@
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/Kellly.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/tkd9714.php) 16 ms (**100%**),  16.2 MB (**36.11%**)
 </details>
 
 
