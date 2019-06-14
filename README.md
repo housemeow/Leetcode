@@ -295,7 +295,7 @@
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/Kellly.cpp)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/tkd9714.php)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/961_N-Repeated%20Element%20in%20Size%202N%20Array/tkd9714.php) 68 ms (**94.57%**),  16.2 MB (**33.33%**)
 </details>
 
 
