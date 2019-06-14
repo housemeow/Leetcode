@@ -215,7 +215,7 @@
 
 - [Dennaolan.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Dennaolan.sql)
 - [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/Kellly.sql)
-- [tkd9714.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/tkd9714.sql)
+- [tkd9714.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/tkd9714.sql) 128 ms (**93.28%**)
 </details>
 
 
