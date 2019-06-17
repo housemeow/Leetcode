@@ -167,7 +167,7 @@
 <details>
 	<summary>tkd9714.php</summary>
 
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/16_3Sum%20Closest/tkd9714.php) 84 ms (**34.29%**), 14.9 MB (**19.05%**)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/16_3Sum%20Closest/tkd9714.php) 24 ms (**97.14%**), 14.8 MB (**57.14%**)
 </details>
   
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
