@@ -6,35 +6,44 @@ class Solution {
      * @return Integer
      */
     function threeSumClosest($nums, $target) {
-        $closer = abs($target - ($nums[0] + $nums[1] + $nums[2]));
-        $ans = $nums[0] + $nums[1] + $nums[2];
-        sort($nums);
         
-        for ($i = 0; $i < count($nums) - 1; $i++)
+        $count = count($nums);
+        if ($count < 3)
+            return 0;
+        else;
+        
+        $closer = PHP_INT_MAX;
+        $ans = 0;
+        sort($nums);
+        for ($i = 0; $i < $count - 2; $i++)
         {        
             # j 左往右
             # k 右往左
             $j = $i + 1;
-            $k = count($nums) - 1;
+            $k = $count - 1;
             while ($j < $k)
             {
                 $sum = $nums[$i] + $nums[$j] + $nums[$k];
-                $diff = $target - $sum;
+                $diff = $sum - $target;
                 $gap = abs($diff);
+                
+                if ($diff == 0)
+                {
+                    return $sum;
+                }
+                else if ($diff < 0)
+                {
+                    $j++;
+                }
+                else
+                    $k--;
+                
                 if ($gap < $closer)
                 {
                     $ans = $sum;
                     $closer = $gap;
                 }
-                else if ($sum < $target)
-                {
-                    $j++;
-                }
-                else
-                {
-                    $k--;
-                }
-                
+                else;
             }
         }
         
