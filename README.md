@@ -190,12 +190,13 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 <details>
-	<summary>Dennaolan.cpp, oiloiloil.py, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, oiloiloil.py, tkd9714.php, 3k4733294.c</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/Dennaolan.cpp)
 - [oiloiloil.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/oiloiloil.py)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/tkd9714.php) 4 ms (**95.49%**), 14.9 MB (**37.35%**)
-</details>
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/k4733294-patch-1-20-Valid-Parentheses/20_Valid%20Parentheses/3k4733294.c)
+</details>4 ms (**95.49%**), 14.9 MB (**37.35%**) cont...
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 <details>
