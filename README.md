@@ -172,9 +172,11 @@
   
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [17 Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>tkd9714.php, tkd9714(simplify).php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/17_Letter%20Combinations%20of%20a%20Phone%20Number/tkd9714.php) 4 ms (**98.29%**), 15.3 MB (**13.51%**)
+- [tkd9714(simplify).php](https://github.com/housemeow/Leetcode/blob/master/17_Letter%20Combinations%20of%20a%20Phone%20Number/tkd9714(simplify).php) 
+4 ms (**98.28%**), 15.1 MB (**16.22%**)
 </details>
   
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
