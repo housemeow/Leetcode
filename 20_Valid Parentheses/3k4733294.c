@@ -2,7 +2,6 @@
 // pop out adjust array start position
 // if all pass then legal flag true
 
-
 //012345  
 //position
 //{([]})
@@ -20,31 +19,25 @@
 //if not middle keep looping 
         
 bool isValid(char * s){
+    char pararr[7000]="";
     short int slen = strlen(s);
-    printf("slen is %d",slen);
-    short int popoutposition = 0;
+    short int popoutposition = 0;   //char array posotion
     bool  legal = false;
-    if(slen%2==0&&slen!=0){
-    for(int i=0;i<slen;i++){
-        printf("\n i is %d ",i);
+    if(slen%2==0&&slen!=0){ //illegal predetect
+    for(int i=0;i<slen;i++){      //store the every left Parentheses at char array
         if(s[i]=='('||s[i]=='['||s[i]=='{'){
-            popoutposition=i;;    
-            printf("popoutposition++ is %d ",popoutposition);
+            pararr[popoutposition] = s[i];
+            popoutposition++;    
             legal=false;
         }else{
-            
-            printf("s[i] is %c ",s[i]);
-           
-            if(slen!=1&&i!=0){
-                printf("s[popoutposition-1] is %c ",s[popoutposition]);
-                if(s[i]==')'&&s[popoutposition]=='('){
+            if(slen!=1&&i!=0){  //illegal predetect
+                if(s[i]==')'&&pararr[popoutposition-1]=='('){  //if meet any right Parentheses and pop the array and compare
                     popoutposition--;
                     legal=true;
-                    printf("popoutposition-- is %d ",popoutposition);
-                }else if(s[i]==']'&&s[popoutposition]=='['){
+                }else if(s[i]==']'&&pararr[popoutposition-1]=='['){
                     popoutposition--;
                     legal=true;
-                }else if(s[i]=='}'&&s[popoutposition]=='{'){
+                }else if(s[i]=='}'&&pararr[popoutposition-1]=='{'){
                     popoutposition--;
                     legal=true;
                 }else{
@@ -58,12 +51,9 @@ bool isValid(char * s){
         }
     }
     }else if(slen==0){
-        printf("legal=true is");
         legal=true;   
     }else{
         legal=false;   
     }
-        
     return legal;
 }
-
