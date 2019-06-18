@@ -174,7 +174,7 @@
 <details>
 	<summary>tkd9714.php</summary>
 
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/17_Letter%20Combinations%20of%20a%20Phone%20Number/tkd9714.php) 8 ms (**85.00%**), 15 MB (**15.38%**)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/17_Letter%20Combinations%20of%20a%20Phone%20Number/tkd9714.php) 4 ms (**98.29%**), 15.3 MB (**13.51%**)
 </details>
   
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
