@@ -206,8 +206,9 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/Dennaolan.cpp) 156 ms (**17.91%**), 9.8 MB (**89.09%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/tkd9714.php) 20 ms (**96.59%**), 17.6 MB (**12.04%**)
 </details>
 
