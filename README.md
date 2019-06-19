@@ -111,7 +111,7 @@
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly(list).cpp, Kellly(math).cpp, Kellly.(stack&queue).cpp, tkd9714.php, 9_palindrome_number.py</summary>
 
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/3k4733294.c) 0 ms (**100%**), 7.2 MB (**78.1%**)
-- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Dennaolan.cpp)
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Dennaolan.cpp) 20 ms (**71.83%**), 8.1 MB (**72.45%**)
 - [Kellly(list).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly(list).cpp)
 - [Kellly(math).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly(math).cpp)
 - [Kellly.(stack&queue).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly.(stack%26queue).cpp)
