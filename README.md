@@ -212,6 +212,13 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/22_Generate%20Parentheses/tkd9714.php) 4 ms(**97.62%**), 15.4 MB (**90.32%**)
 </details>
 
+### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [23 Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+<details>
+	<summary>tkd9714.php</summary>
+
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/23_Merge%20k%20Sorted%20Lists/tkd9714.php) 24 ms (**100%**), 22.6 MB (**41.67%**)
+</details>
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php</summary>
