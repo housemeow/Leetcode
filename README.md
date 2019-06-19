@@ -94,7 +94,7 @@
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/3k4733294.c) 4 ms (**93.32%**), 6.9 MB (**64.19%**)
-- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/Dennaolan.cpp)
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/Dennaolan.cpp) 4 ms (**86.77%**), 8.4 MB (**37.73%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/tkd9714.php) 4 ms (**97.65%**), 14.8 MB (**53.68%**)
 </details>
