@@ -261,7 +261,7 @@
 <details>
 	<summary>tkd9714.php</summary>
 
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/29_Divide%20Two%20Integers/tkd9714.php) 4 ms (**100%**), 14.6 MB (**100%**)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/29_Divide%20Two%20Integers/tkd9714.php) 0 ms (**100%**), 14.6 MB (**100%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
