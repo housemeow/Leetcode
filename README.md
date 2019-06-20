@@ -231,6 +231,7 @@
 	<summary>tkd9714.php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/25_Reverse%20Nodes%20in%20k-Group/tkd9714.php) 88 ms (**9.09%**), 15.9 MB (**100%**)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/25_Reverse%20Nodes%20in%20k-Group/tkd9714(splstack).php) 12 ms (**90.91%**), 15.9 MB (**100%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
