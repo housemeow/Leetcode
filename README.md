@@ -228,10 +228,10 @@
 
 ### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>tkd9714.php, tkd9714(splstack).php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/25_Reverse%20Nodes%20in%20k-Group/tkd9714.php) 88 ms (**9.09%**), 15.9 MB (**100%**)
-- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/25_Reverse%20Nodes%20in%20k-Group/tkd9714(splstack).php) 12 ms (**90.91%**), 15.9 MB (**100%**)
+- [tkd9714(splstack).php](https://github.com/housemeow/Leetcode/blob/master/25_Reverse%20Nodes%20in%20k-Group/tkd9714(splstack).php) 12 ms (**90.91%**), 15.9 MB (**100%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
