@@ -106,7 +106,7 @@
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
-- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/Dennaolan.cpp) 8 ms (**74.18%**), 8.8 MB (**21.98%**)
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/Dennaolan.cpp) 4 ms (**92.54%**), 9 MB (**19.75%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/tkd9714.php) 8 ms (**88.36%**), 14.8 MB (**80.00%**)
 </details>
 
