@@ -19,9 +19,9 @@ public:
           it++;
         }
 
-        if ( str[0] == '-' && outOfRange( str ) )
+        if ( str[0] == '-' && outOfSize( str ) )
           return -2147483648;
-        else if ( outOfRange( str ) )
+        else if ( outOfSize( str ) )
           return 2147483647;
   
         for ( ; it != str.end() ; it++ ) {
@@ -48,7 +48,7 @@ public:
     
 private:
     
-    bool outOfRange( string str ) {
+    bool outOfSize( string str ) {
       if ( str.size() > 11 )
         return true;
 
@@ -57,189 +57,6 @@ private:
       
       if ( issign( str[0] ) && str.size() < 11 )
         return false;
-        
-      if ( issign( str[0] ) && str.size() == 11 ) {
-        if ( str[0] == '-' ) {
-          if ( str[1] > '2' )
-            return true;
-          else if ( str[1] == '2' ) {
-            if ( str[2] > '1' )
-              return true;
-            else if (str[2] == '1' ) {
-              if ( str[3] > '4' )
-                return true;
-              else if ( str[3] == '4' ) {
-                if ( str[4] > '7' )
-                  return true;
-                else if ( str[4] == '7' ) {
-                  if ( str[5] > '4' )
-                    return true;
-                  else if ( str[5] == '4' ) {
-                    if ( str[6] > '8' )
-                      return true;
-                    else if ( str[6] == '8' ) {
-                      if ( str[7] > '3' )
-                        return true;
-                      else if ( str[7] == '3' ) {
-                        if ( str[8] > '6' )
-                          return true;
-                        else if ( str[8] == '6' ) {
-                          if ( str[9] > '4' )
-                            return true;
-                          else if ( str[9] == '4' ) {
-                            if ( str[10] > '8' )
-                              return true;
-                            else
-                              return false;
-                          }
-                          else
-                            return false;
-                        }
-                        else
-                          return false;
-                      }
-                      else
-                        return false;
-                    }
-                    else
-                      return false;
-                  }
-                  else
-                    return false;
-                  }
-                else
-                  return false;
-              }
-              else
-                return false;
-            }
-            else
-              return false;
-          }
-          else
-            return false;
-        }
-        else if ( str[0] == '+') {
-          if ( str[1] > '2' )
-            return true;
-          else if ( str[1] == '2' ) {
-            if ( str[2] > '1' )
-              return true;
-            else if (str[2] == '1' ) {
-              if ( str[3] > '4' )
-                return true;
-              else if ( str[3] == '4' ) {
-                if ( str[4] > '7' )
-                  return true;
-                else if ( str[4] == '7' ) {
-                  if ( str[5] > '4' )
-                    return true;
-                  else if ( str[5] == '4' ) {
-                    if ( str[6] > '8' )
-                      return true;
-                    else if ( str[6] == '8' ) {
-                      if ( str[7] > '3' )
-                        return true;
-                      else if ( str[7] == '3' ) {
-                        if ( str[8] > '6' )
-                          return true;
-                        else if ( str[8] == '6' ) {
-                          if ( str[9] > '4' )
-                            return true;
-                          else if ( str[9] == '4' ) {
-                            if ( str[10] > '7' )
-                              return true;
-                            else
-                              return false;
-                          }
-                          else
-                            return false;
-                        }
-                        else
-                          return false;
-                      }
-                      else
-                        return false;
-                    }
-                    else
-                      return false;
-                  }
-                  else
-                    return false;
-                  }
-                else
-                  return false;
-              }
-              else
-                return false;
-            }
-            else
-              return false;
-          }
-          else
-            return false;
-        }
-      }
-      else if ( !issign( str[0] ) && str.size() == 10 ) {
-          if ( str[0] > '2' )
-            return true;
-          else if ( str[0] == '2' ) {
-            if ( str[1] > '1' )
-              return true;
-            else if (str[1] == '1' ) {
-              if ( str[2] > '4' )
-                return true;
-              else if ( str[2] == '4' ) {
-                if ( str[3] > '7' )
-                  return true;
-                else if ( str[3] == '7' ) {
-                  if ( str[4] > '4' )
-                    return true;
-                  else if ( str[4] == '4' ) {
-                    if ( str[5] > '8' )
-                      return true;
-                    else if ( str[5] == '8' ) {
-                      if ( str[6] > '3' )
-                        return true;
-                      else if ( str[6] == '3' ) {
-                        if ( str[7] > '6' )
-                          return true;
-                        else if ( str[7] == '6' ) {
-                          if ( str[8] > '4' )
-                            return true;
-                          else if ( str[8] == '4' ) {
-                            if ( str[9] > '7' )
-                              return true;
-                            else
-                              return false;
-                          }
-                          else
-                            return false;
-                        }
-                        else
-                          return false;
-                      }
-                      else
-                        return false;
-                    }
-                    else
-                      return false;
-                  }
-                  else
-                    return false;
-                  }
-                else
-                  return false;
-              }
-              else
-                return false;
-            }
-            else
-              return false;
-          }
-          else
-            return false;
-        }
     
       return false;
     }
