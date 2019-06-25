@@ -62,7 +62,8 @@ struct LstNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2){
                                 printf("61temp_node1 val is %d ",temp_node1->val);
                                 printf("62temp_node2 val is %d ",temp_node2->val);    
                             }
-                            if(temp_node11->val>temp_node2->val){
+                        }else if(temp_node11==NULL){
+                            
         		                holder1=temp_node1->next;
         		                //Storing the address of next node of first linked list
 
@@ -74,12 +75,14 @@ struct LstNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2){
             		                holder2=temp_node2->next;
             		                temp_node2->next=holder1;
 		                        }
-                            }
+                        }
+                            
+                        
                             printf("77temp_node1 val is %d ",temp_node1->val);
                             printf("78temp_node2 val is %d ",temp_node2->val);
                             temp_node1=holder1;
         		            temp_node2=holder2;
-                        }
+                      
                     }
                     }else if(whichfirst==false){
                         if(temp_node2!=NULL&&temp_node1!=NULL){
@@ -92,7 +95,7 @@ struct LstNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2){
                         }
                     }
                 }else if(temp_node1==NULL&&temp_node2!=NULL){
-                    if(whichfirst==false){
+                     if(whichfirst==false){
                             holder1=temp_node1->next;
         		            //Storing the address of next node of first linked list
 
@@ -110,8 +113,9 @@ struct LstNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2){
         		            temp_node2=holder2;
                             
                     }
+                 
                 }else if(temp_node1!=NULL&&temp_node2==NULL){
-                    
+                      
                 }
                 
                 
