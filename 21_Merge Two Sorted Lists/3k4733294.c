@@ -19,86 +19,61 @@
 // l2  1->2
 
 struct LstNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2){
-    struct ListNode *temp_node = NULL;
-    struct ListNode *temp_merge = NULL;
+    struct ListNode *temp_node1 = NULL;
+    struct ListNode *temp_node2 = NULL;
+    struct ListNode *start_merge = NULL;
+    struct ListNode *cur_merge = NULL;
+    bool bigswitch = 0;// 0 is l1 first 1 is l2 first
+    
     
     bool first = true;
     while(l1->next!=NULL||l2->next!=NULL){
          if(first == false){  //do add every number link next and iterate to next
             if(l1->val<=l2->val){
-                temp_node = l1;
-                temp_merge->next = temp_node;
-                temp_merge = temp_merge->next;
-                temp_node = l2;
-                temp_merge->next = temp_node;
-                temp_merge = temp_merge->next;
-                printf("33 temp_merge is %d",temp_merge);
-                l2 = l2->next;
-                l1 = l1->next;
-                printf("38 l1.val value is %d",l1->val);
-                printf("39 l1 is %d",l1);
-                printf("40 temp_merge is %d",temp_merge);
+                cur_merge=temp_node1;
+                printf("34 cur_merge val is %d",cur_merge->val);
+                temp_node1=temp_node1->next;
+                cur_merge=cur_merge->next;
+                cur_merge=temp_node2;
+                printf("38 cur_merge val is %d",cur_merge->val);
+                temp_node2=temp_node2->next;
+                cur_merge=cur_merge->next;
+                printf("41 cur_merge val is %d",cur_merge->val);
+                
             }else if(l1->val>l2->val){
-                temp_node = l2;
-                temp_merge->next = temp_node;
-                temp_merge = temp_merge->next;
-                temp_node = l1;
-                temp_merge->next = temp_node;
-                temp_merge = temp_merge->next;
-                printf("41 temp_merge is %d",temp_merge);
-                l2 = l2->next;
-                l1 = l1->next;
-                printf("42 l2.val value is %d",l2->val);
-                printf("43 l2 is %d",l2);
-                printf("44 temp_merge is %d",temp_merge);
+                cur_merge=temp_node2;
+                printf("47 cur_merge val is %d",cur_merge->val);
+                temp_node1=temp_node2->next;
+                cur_merge=cur_merge->next;
+                cur_merge=temp_node1;
+                printf("51 cur_merge val is %d",cur_merge->val);
+                temp_node2=temp_node1->next;
+                cur_merge=cur_merge->next;
+                printf("54 cur_merge val is %d",cur_merge->val);
+                
             }
         }
         if(first == true){
             if(l1->val<=l2->val){  //first head of which list //and link first
-                temp_merge = l1;
-                printf("\n49 merge is %d",merge);
-                //temp_merge = l1;
-                printf("\n50 temp_merge->val value is %d",temp_merge->val);
-                printf("\n50 temp_merge is %d",temp_merge);
-                temp_node = l2;
-                temp_merge->next = temp_node;
-                printf("\n52 temp_merge->val value is %d",temp_merge->val);
-                printf("\n52 temp_merge is %d",temp_merge);
-                temp_merge = temp_merge->next;
-                printf("\n54 l1.val value is %d",l1->val);
-                printf("\n55 l2.val value is %d",l2->val);
-                printf("\n56 l1 is %d",l1);
-                printf("\n56 l2 is %d",l2);
+                temp_node1=l1->next;
+                temp_node2=l2->next;
+                l2->next=l1;
+                start_merge=l2;
+                cur_merge=l2->next;
+                printf("\n63 l2.val value is %d",l2->val);
+                printf("64 cur_merge val is %d",cur_merge->val);
             }else if(l1->val>l2->val){
-                temp_merge = l2;
-                printf("\n69 merge is %d",merge);
-                //temp_merge = l1;
-                printf("\n70 temp_merge->val value is %d",temp_merge->val);
-                printf("\n72 temp_merge is %d",temp_merge);
-                temp_node = l1;
-                temp_merge->next = temp_node;
-                printf("\n75 temp_merge->val value is %d",temp_merge->val);
-                printf("\n76 temp_merge is %d",temp_merge);
-                temp_merge = temp_merge->next;
-                printf("\n78 l1.val value is %d",l1->val);
-                printf("\n79 l2.val value is %d",l2->val);
-                printf("\n80 l1 is %d",l1);
-                printf("\n81 l2 is %d",l2);
-                
+                temp_node1=l1->next;
+                temp_node2=l2->next;
+                l1->next=l2;
+                start_merge=l1;
+                cur_merge=l1->next;
+                printf("\n71 l1.val value is %d",l1->val);
+                printf("72 cur_merge val is %d",cur_merge->val);
             }
             first = false;
-            l2=l2->next;
-            l1=l1->next;
             
-            printf("\n65 l1.val value is %d",l1->val);
-            printf("\n66 l2.val value is %d",l2->val);
-            printf("\n67 l2 is %d",l2);
-            printf("\n67 l1 is %d",l1);
         }
     }
-      
-    //struct ListNode* current2 = &l2;
-    //printf("\nl2 value is %d",current2->val);
-    return merge;
+    return start_merge;
 }
-
