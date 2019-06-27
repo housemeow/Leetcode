@@ -209,8 +209,8 @@
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/Dennaolan.cpp)
 - [oiloiloil.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/oiloiloil.py)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/tkd9714.php) 4 ms (**95.49%**), 14.9 MB (**37.35%**)
-- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/k4733294-patch-1-20-Valid-Parentheses/20_Valid%20Parentheses/3k4733294.c)
-</details>4 ms (**95.49%**), 14.9 MB (**37.35%**) cont...
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/k4733294-patch-1-20-Valid-Parentheses/20_Valid%20Parentheses/3k4733294.c) 4 ms (**91.02%**), 7.5 MB (**32.33%**)
+</details>
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 <details>
