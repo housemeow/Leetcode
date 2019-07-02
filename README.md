@@ -199,7 +199,7 @@
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/Dennaolan.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/tkd9714.php) 8 ms (**92.02%**), 14.9 MB (**70.70%**)
-- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/k4733294-patch-1-20-Valid-Parentheses/20_Valid%20Parentheses/3k4733294.c) 0 ms (**100.00%**), 7.1 MB (**39.97%**)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/3k4733294.c) 0 ms (**100.00%**), 7.1 MB (**39.97%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
@@ -209,7 +209,7 @@
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/Dennaolan.cpp)
 - [oiloiloil.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/oiloiloil.py)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/tkd9714.php) 4 ms (**95.49%**), 14.9 MB (**37.35%**)
-- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/k4733294-patch-1-20-Valid-Parentheses/20_Valid%20Parentheses/3k4733294.c) 4 ms (**91.02%**), 7.5 MB (**32.33%**)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/3k4733294.c) 4 ms (**91.02%**), 7.5 MB (**32.33%**)
 </details>
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -243,10 +243,11 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/Dennaolan.cpp) 156 ms (**17.91%**), 9.8 MB (**89.09%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/tkd9714.php) 20 ms (**96.59%**), 17.6 MB (**12.04%**)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/3k4733294.c) 16 ms (**95.57%**), 9.7 MB (**12.86%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [27_Remove Element](https://leetcode.com/problems/remove-element/)
