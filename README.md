@@ -274,6 +274,13 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/29_Divide%20Two%20Integers/tkd9714.php) 0 ms (**100%**), 14.6 MB (**100%**)
 </details>
 
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [33_Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+<details>
+	<summary>tkd9714.php</summary>
+
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/33_Search%20in%20Rotated%20Sorted%20Array/tkd9714.php) 4 ms (**100%**), 15 MB (**100%**)
+</details>
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 <details>
 	<summary>tkd9714.php</summary>
