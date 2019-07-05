@@ -274,6 +274,15 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/29_Divide%20Two%20Integers/tkd9714.php) 0 ms (**100%**), 14.6 MB (**100%**)
 </details>
 
+
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [31_Next Permutation](https://leetcode.com/problems/next-permutation/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/31_Next%20Permutation/Kellly.cpp) 8 ms (**85.12%**), 6 MB (**68.58%**)
+</details>
+
+
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [33_Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 <details>
 	<summary>tkd9714.php</summary>
