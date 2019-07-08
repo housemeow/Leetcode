@@ -286,6 +286,7 @@
 	<summary>Kellly.cpp</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/31_Next%20Permutation/Kellly.cpp) 8 ms (**85.12%**), 6 MB (**68.58%**)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/31_Next%20Permutation/tkd9714.php) 4 ms (**96.30%**), 14.9 MB (**66.67%**)
 </details>
 
 
