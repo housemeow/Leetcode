@@ -297,8 +297,9 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/Dennaolan.cpp) 4 ms (**99.17%**), 8.8 MB (**67.20%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/tkd9714.php) 12 ms (**90.20%**), 16 MB (**18.52%**)
 </details>
 
