@@ -2,7 +2,6 @@ class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
 
-        
         if ( nums.empty() )
           return 0;
 
