@@ -17,10 +17,8 @@ public:
           for ( int j = i+1 ; j < nums.size() ; j++ ) {
             if ( j+1 <= nums.size() )
               ans.push_back(nums[j]);
-            else {
-              nums.pop_back();
+            else
               break;
-            }
               
             for ( int k = j+1 ; k < nums.size() ; k++ ) {
               if ( ans[0] + ans[1] + nums[k] == 0 ) {
