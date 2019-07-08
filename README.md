@@ -283,7 +283,7 @@
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [31_Next Permutation](https://leetcode.com/problems/next-permutation/)
 <details>
-	<summary>Kellly.cpp</summary>
+	<summary>Kellly.cpp, tkd9714.php</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/31_Next%20Permutation/Kellly.cpp) 8 ms (**85.12%**), 6 MB (**68.58%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/31_Next%20Permutation/tkd9714.php) 4 ms (**96.30%**), 14.9 MB (**66.67%**)
