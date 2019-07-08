@@ -169,8 +169,9 @@
   
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [15_3Sum](https://leetcode.com/problems/3sum/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php</summary>
 
+- [Dennnaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Dennaolan.cpp) **Time Limit Exceeded**
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/tkd9714.php) 168 ms (**98.50%**), 24.1 MB (**58.97%**)
 </details>
   
