@@ -295,9 +295,10 @@
 
 ### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [32_Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>tkd9714.php, Kellly.cpp</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/32_Longest%20Valid%20Parentheses/tkd9714.php) 8 ms (**87.50%**), 14.8 MB (**100%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/32_Longest%20Valid%20Parentheses/Kellly.cpp) 92 ms (**7.31%**), 19.4 MB (**5.05%**)
 </details>
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [33_Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
