@@ -169,10 +169,12 @@
   
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [15_3Sum](https://leetcode.com/problems/3sum/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp</summary>
 
 - [Dennnaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Dennaolan.cpp) **Time Limit Exceeded**
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/tkd9714.php) 168 ms (**98.50%**), 24.1 MB (**58.97%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Kellly.cpp) 196 ms (**15.20%**), 18.3 MB (**15.88%**)
+
 </details>
   
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [16 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
