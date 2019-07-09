@@ -398,9 +398,10 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [938_Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 <details>
-	<summary>Dennaolan.cpp</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp</summary>
 
-- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/938_Range%20Sum%20of%20BST/Dennaolan.cppp)
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/938_Range%20Sum%20of%20BST/Dennaolan.cpp)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/938_Range%20Sum%20of%20BST/Kellly.cpp) 144 ms (**87.15%**), 41 MB (**90.15%**)
 </details>
 
 
