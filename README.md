@@ -293,7 +293,7 @@
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [33_Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>tkd9714.php, 3k4733294</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/33_Search%20in%20Rotated%20Sorted%20Array/tkd9714.php) 4 ms (**100%**), 15 MB (**100%**)
 </details>
@@ -304,6 +304,7 @@
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/Dennaolan.cpp) 4 ms (**99.17%**), 8.8 MB (**67.20%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/tkd9714.php) 12 ms (**90.20%**), 16 MB (**18.52%**)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/3k4733294.c) 4 ms (**92.24%**), 7.3 MB (**7.16%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [38_Count and Say](https://leetcode.com/problems/count-and-say/)
