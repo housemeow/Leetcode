@@ -290,6 +290,12 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/31_Next%20Permutation/tkd9714.php) 4 ms (**96.30%**), 14.9 MB (**66.67%**)
 </details>
 
+### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [32_Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+<details>
+	<summary>tkd9714.php</summary>
+
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/32_Longest%20Valid%20Parentheses/tkd9714.php) 8 ms (**87.50%**), 14.8 MB (**100%**)
+</details>
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [33_Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 <details>
