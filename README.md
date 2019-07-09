@@ -318,9 +318,11 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [38_Count and Say](https://leetcode.com/problems/count-and-say/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>tkd9714.php, Kellly.cpp</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/tkd9714.php) 4 ms (**98.39%**), 14.8 MB (**65.00%**)
+- [Kellly.php](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/Kellly.php) 4 ms (**86.01%**), 9 MB (**37.67%**)
+
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [595_Big Countries](https://leetcode.com/problems/big-countries/)
