@@ -266,10 +266,11 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [28_Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/Dennaolan.cpp) 4 ms (**94.49%**), 9.3 MB (**12.12%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/tkd9714.php) 8 ms (**88.33%**), 14.9 MB (**74.65%**)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/3k4733294.c) 4 ms (**87.79%**), 7.1 MB (**47.74%**)
 </details>
 
 
