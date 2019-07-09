@@ -41,8 +41,8 @@ public:
                 ansList.push_back( ans );
               ans.clear();
             }
-            else if ( ( nums[l] < 0 && nums[i] < 0 && nums[r] < 0 ) ||
-                      ( nums[l] > 0 && nums[i] > 0 && nums[r] > 0 ) )
+            else if ( ( nums[l] < 0 && nums[i] < 0 && nums[r] <= 0 ) ||
+                      ( nums[l] => 0 && nums[i] > 0 && nums[r] > 0 ) )
               break;
 
             prev_l = nums[l];
