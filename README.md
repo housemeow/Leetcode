@@ -309,11 +309,12 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/Dennaolan.cpp) 4 ms (**99.17%**), 8.8 MB (**67.20%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/tkd9714.php) 12 ms (**90.20%**), 16 MB (**18.52%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/3k4733294.c) 4 ms (**92.24%**), 7.3 MB (**7.16%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/Kellly.cpp) 8 ms (**73.48%**), 8.9 MB (**53.11%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [38_Count and Say](https://leetcode.com/problems/count-and-say/)
