@@ -426,8 +426,8 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [1021_Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 <details>
-	<summary>Dennaolan.cpp</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/1021_Remove%20Outermost%20Parentheses/Dennaolan.cpp)
-
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1021_Remove%20Outermost%20Parentheses/Kellly.cpp) 4 ms (**94.83%**), 9.3 MB (**15.07%**)
 </details>
