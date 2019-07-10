@@ -252,7 +252,7 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [27_Remove Element](https://leetcode.com/problems/remove-element/)
 <details>
-	<summary>tkd9714.php, 3k4733294</summary>
+	<summary>tkd9714.php, 3k4733294.c</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/tkd9714.php) 8 ms (**85.62%**), 14.7 MB (**89.01%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/3k4733294.c) 4 ms (**83.33%**), 7.3 MB (**7.66%**)
@@ -260,9 +260,10 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [28_Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>tkd9714.php, 3k4733294.c</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/tkd9714.php) 8 ms (**88.33%**), 14.9 MB (**74.65%**)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/3k4733294.c) 4 ms (**87.79%**), 7.1 MB (**47.74%**)
 </details>
 
 
@@ -275,7 +276,7 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 <details>
-	<summary>tkd9714.php, 3k4733294</summary>
+	<summary>tkd9714.php, 3k4733294.c</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/tkd9714.php) 12 ms (**90.20%**), 16 MB (**18.52%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/3k4733294.c) 4 ms (**92.24%**), 7.3 MB (**7.16%**)
