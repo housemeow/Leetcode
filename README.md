@@ -323,11 +323,12 @@
 
 ### [![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) 804_Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 <details>
-	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, 3k4733294.c</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/tkd9714.php)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/3k4733294.c) 4 ms (**90.5%**), 7 MB (**40%**)
 </details>
 
 
