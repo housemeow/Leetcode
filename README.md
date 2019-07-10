@@ -260,7 +260,7 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [27_Remove Element](https://leetcode.com/problems/remove-element/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/Dennaolan.cpp) 4 ms (**82.76%**), 8.7 MB (**10.07%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/tkd9714.php) 8 ms (**85.62%**), 14.7 MB (**89.01%**)
@@ -363,11 +363,12 @@
 
 ### [![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) 804_Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 <details>
-	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, 3k4733294.c</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/tkd9714.php)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/804_Unique%20Morse%20Code%20Words/3k4733294.c) 4 ms (**90.5%**), 7 MB (**40%**)
 </details>
 
 
