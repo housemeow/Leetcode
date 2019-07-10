@@ -102,13 +102,17 @@
 - [7_reverse_integer.py](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/7_reverse_integer.py)
 </details>
 
+
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [8_String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/Dennaolan.cpp) 4 ms (**92.54%**), 9 MB (**19.75%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/tkd9714.php) 8 ms (**88.36%**), 14.8 MB (**80.00%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/Kellly.cpp) 0 ms (**100.00%**), 8.6 MB (**14.37%**)
+
 </details>
+
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 <details>
@@ -135,11 +139,12 @@
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [12_Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php, tkd9714(faster).php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, tkd9714(faster).php, Kellly.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/Dennaolan.cpp) 8 ms (**87.94%**), 8.3 MB (**87.25%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/tkd9714.php) 28 ms (**71.60%**), 14.9 MB (**57.14%**)
 - [tkd9714(faster).php](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/tkd9714(faster).php) 12 ms (**95.06%**), 14.7 MB (**58.00%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/Kellly.cpp) 4 ms (**96.11%**), 8.6 MB (**44.82%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
@@ -165,9 +170,12 @@
   
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [15_3Sum](https://leetcode.com/problems/3sum/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp</summary>
 
+- [Dennnaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Dennaolan.cpp) **Time Limit Exceeded**
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/tkd9714.php) 168 ms (**98.50%**), 24.1 MB (**58.97%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Kellly.cpp) 196 ms (**15.20%**), 18.3 MB (**15.88%**)
+
 </details>
   
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [16 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
@@ -252,16 +260,18 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [27_Remove Element](https://leetcode.com/problems/remove-element/)
 <details>
-	<summary>tkd9714.php, 3k4733294.c</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c</summary>
 
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/Dennaolan.cpp) 4 ms (**82.76%**), 8.7 MB (**10.07%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/tkd9714.php) 8 ms (**85.62%**), 14.7 MB (**89.01%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/3k4733294.c) 4 ms (**83.33%**), 7.3 MB (**7.66%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [28_Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 <details>
-	<summary>tkd9714.php, 3k4733294.c</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c</summary>
 
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/Dennaolan.cpp) 4 ms (**94.49%**), 9.3 MB (**12.12%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/tkd9714.php) 8 ms (**88.33%**), 14.9 MB (**74.65%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/28_Implement%20strStr()/3k4733294.c) 4 ms (**87.79%**), 7.1 MB (**47.74%**)
 </details>
@@ -274,19 +284,48 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/29_Divide%20Two%20Integers/tkd9714.php) 0 ms (**100%**), 14.6 MB (**100%**)
 </details>
 
+
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [31_Next Permutation](https://leetcode.com/problems/next-permutation/)
+<details>
+	<summary>Kellly.cpp, tkd9714.php</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/31_Next%20Permutation/Kellly.cpp) 8 ms (**85.12%**), 6 MB (**68.58%**)
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/31_Next%20Permutation/tkd9714.php) 4 ms (**96.30%**), 14.9 MB (**66.67%**)
+</details>
+
+### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [32_Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+<details>
+	<summary>tkd9714.php, Kellly.cpp</summary>
+
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/32_Longest%20Valid%20Parentheses/tkd9714.php) 8 ms (**87.50%**), 14.8 MB (**100%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/32_Longest%20Valid%20Parentheses/Kellly.cpp) 92 ms (**7.31%**), 19.4 MB (**5.05%**)
+</details>
+
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [33_Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+<details>
+	<summary>tkd9714.php, Kellly.cpp</summary>
+
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/33_Search%20in%20Rotated%20Sorted%20Array/tkd9714.php) 4 ms (**100%**), 15 MB (**100%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/33_Search%20in%20Rotated%20Sorted%20Array/Kellly.cpp) 4 ms (**86.81%**), 8.7 MB (**50.62%**)
+</details>
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 <details>
-	<summary>tkd9714.php, 3k4733294.c</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/Dennaolan.cpp) 4 ms (**99.17%**), 8.8 MB (**67.20%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/tkd9714.php) 12 ms (**90.20%**), 16 MB (**18.52%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/3k4733294.c) 4 ms (**92.24%**), 7.3 MB (**7.16%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/Kellly.cpp) 8 ms (**73.48%**), 8.9 MB (**53.11%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [38_Count and Say](https://leetcode.com/problems/count-and-say/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>tkd9714.php, Kellly.cpp</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/tkd9714.php) 4 ms (**98.39%**), 14.8 MB (**65.00%**)
+- [Kellly.php](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/Kellly.php) 4 ms (**86.01%**), 9 MB (**37.67%**)
+
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [595_Big Countries](https://leetcode.com/problems/big-countries/)
@@ -365,9 +404,10 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [938_Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 <details>
-	<summary>Dennaolan.cpp</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp</summary>
 
-- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/938_Range%20Sum%20of%20BST/Dennaolan.cppp)
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/938_Range%20Sum%20of%20BST/Dennaolan.cpp)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/938_Range%20Sum%20of%20BST/Kellly.cpp) 144 ms (**87.15%**), 41 MB (**90.15%**)
 </details>
 
 
@@ -383,17 +423,18 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [977_Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/Dennaolan.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/tkd9714.php)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/977_Squares%20of%20a%20Sorted%20Array/Kellly.cpp) 100 ms (**88.18%**), 13.3 MB (**81.76%**)
 </details>
 
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [1021_Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 <details>
-	<summary>Dennaolan.cpp</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/1021_Remove%20Outermost%20Parentheses/Dennaolan.cpp)
-
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1021_Remove%20Outermost%20Parentheses/Kellly.cpp) 4 ms (**94.83%**), 9.3 MB (**15.07%**)
 </details>
