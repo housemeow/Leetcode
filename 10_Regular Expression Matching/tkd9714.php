@@ -12,14 +12,14 @@ class Solution {
         if (empty($p))
             return empty($s);
         
-        $fist_match = (!empty($s) && ($p[0] == $s[0] || $p[0] == '.'));
+        $first_match = (!empty($s) && ($p[0] == $s[0] || $p[0] == '.'));
         
         if (strlen($p) >= 2 && $p[1] == '*')
         {
             $psubstr = substr($p, 2, strlen($p));
             $ssubstr = substr($s, 1, strlen($s));
-            return ($this->isMatch($s, $psubstr) || ($fitst_match && 
-                    $this->isMatch($ssubstr, $p)));
+            return (($first_match && $this->isMatch($ssubstr, $p)) ||
+                     $this->isMatch($s, $psubstr));
         }
         else
         {
