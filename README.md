@@ -385,11 +385,12 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [905_Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 <details>
-	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, 3k4733294.c</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/Dennaolan.cpp)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/tkd9714.php) 16 ms (**100%**),  16.2 MB (**36.11%**)
+- [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/905_Sort%20Array%20By%20Parity/3k4733294.c) 24 ms (**95.34%**), 10.2 MB (**52.60%**)
 </details>
 
 
