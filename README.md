@@ -336,6 +336,14 @@
 
 </details>
 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
+<details>
+	<summary>Dennaolan.cpp</summary>
+
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/278_First%20Bad%20Version/Dennaolan.cpp) 0 ms (**100%**), 8.2 MB (**31.03%**)
+
+</details>
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [595_Big Countries](https://leetcode.com/problems/big-countries/)
 
 <details>
