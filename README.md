@@ -4,25 +4,7 @@
 2. AC後在指定資料夾建個屬於你名字的檔名.副檔名 (Example: Kellly.cpp, Dennaolan.sql)
 3. 把檔案網址貼在readme
 
-## 題目Template
-
-### [#_Problem Name](problem.url/)
-- [3k4733294.?]
-- [Dennaolan.?]
-- [Kellly.?]
-- [oiloiloil.?]
-- [tkd9714.?]
-- [who.language](github.code.url/) 
-
-[#_Problem Name](problem.url)
-<details>
-  <summary>3k4733294.c Kellly.c Kellly.cpp tkd9714.php</summary>
-
-- [who.language](github.code.url/)
-</details>
-
 ### 色塊標示題目難易度
-
 - ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) Hard
 - ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) Medium
 - ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) Easy
