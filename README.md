@@ -314,7 +314,7 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [38_Count and Say](https://leetcode.com/problems/count-and-say/)
 <details>
-	<summary>tkd9714.php, Kellly.cpp</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/Dennaolan.cpp) 12 ms (**18.96%**), 8.7 MB (**67.59%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/tkd9714.php) 4 ms (**98.39%**), 14.8 MB (**65.00%**)
