@@ -111,9 +111,10 @@
 
 ### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [10_Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 <details>
-	<summary>Kellly.cpp, tkd9714.php</summary>
+	<summary>Kellly.cpp, Kellly(DynamicProgramming).cpp, tkd9714.php</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/10_Regular%20Expression%20Matching/Kellly.cpp) 220 ms (**14.82%**), 15.2 MB (**21.11%**)
+- [Kellly(DynamicProgramming).cpp](https://github.com/housemeow/Leetcode/blob/master/10_Regular%20Expression%20Matching/Kellly(DynamicProgramming).cpp) 4 ms (**95.40%**), 8.3 MB (**90.51%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/10_Regular%20Expression%20Matching/tkd9714.php) 580 ms (**11.11%**), 14.8 MB (**100%**)
 </details>
 
