@@ -351,6 +351,14 @@
 </details>
 
 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [67_Add Binary](https://leetcode.com/problems/add-binary/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/67_Add%20Binary/Kellly.cpp) 4 ms (**86.93%**), 9.3 MB (**19.93%**)
+</details>
+
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
 <details>
 	<summary>Dennaolan.cpp</summary>
