@@ -255,11 +255,12 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [27_Remove Element](https://leetcode.com/problems/remove-element/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/Dennaolan.cpp) 4 ms (**82.76%**), 8.7 MB (**10.07%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/tkd9714.php) 8 ms (**85.62%**), 14.7 MB (**89.01%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/3k4733294.c) 4 ms (**83.33%**), 7.3 MB (**7.66%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/Kellly.cpp) 0 ms (**100.00%**), 8.7 MB (**17.81%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [28_Implement strStr()](https://leetcode.com/problems/implement-strstr/)
