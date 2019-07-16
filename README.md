@@ -335,6 +335,14 @@
 </details>
 
 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [58_Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/58_Length%20of%20Last%20Word/Kellly.cpp) 0 ms (**100.00%**), 8.7 MB (**49.62%**)
+</details>
+
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
 <details>
 	<summary>Dennaolan.cpp</summary>
