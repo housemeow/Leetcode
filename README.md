@@ -245,11 +245,12 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/Dennaolan.cpp) 156 ms (**17.91%**), 9.8 MB (**89.09%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/tkd9714.php) 20 ms (**96.59%**), 17.6 MB (**12.04%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/3k4733294.c) 16 ms (**95.57%**), 9.7 MB (**12.86%**)
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/Kellly.cpp) 20 ms (**94.56%**), 10 MB (**25.42%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [27_Remove Element](https://leetcode.com/problems/remove-element/)
