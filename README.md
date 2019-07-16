@@ -324,8 +324,16 @@
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/Dennaolan.cpp) 12 ms (**18.96%**), 8.7 MB (**67.59%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/tkd9714.php) 4 ms (**98.39%**), 14.8 MB (**65.00%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/Kellly.cpp) 4 ms (**86.01%**), 9 MB (**37.67%**)
-
 </details>
+
+
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [53_Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/53_Maximum%20Subarray/Kellly.cpp) 8 ms (**79.65%**), 9.3 MB (**42.17%**)
+</details>
+
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
 <details>
