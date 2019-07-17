@@ -519,6 +519,14 @@
 </details>
 
 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [167_Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/167_Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Kellly.cpp) 8 ms (**67.89%**), 9.5 MB (**52.26%**)
+</details>
+
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
 <details>
 	<summary>Dennaolan.cpp</summary>
