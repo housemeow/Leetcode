@@ -487,6 +487,14 @@
 </details>
 
 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [136_Single Number](https://leetcode.com/problems/single-number/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/136_Single%20Number/Kellly.cpp) 24 ms (**27.91%**), 9.6 MB (**87.10%**)
+</details>
+
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
 <details>
 	<summary>Dennaolan.cpp</summary>
