@@ -560,17 +560,25 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [175_Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 <details>
-	<summary>Kellly.cpp</summary>
+	<summary>Kellly.sql</summary>
 
-- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/175_Combine%20Two%20Tables/Kellly.cpp) 193 ms (**99.80%**)
+- [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/175_Combine%20Two%20Tables/Kellly.cpp) 193 ms (**99.80%**)
 </details>
 
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [176_Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
 <details>
-	<summary>Kellly.cpp</summary>
+	<summary>Kellly.sql</summary>
 
-- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/176_Second%20Highest%20Salary/Kellly.cpp) 136 ms (**70.53%**)
+- [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/176_Second%20Highest%20Salary/Kellly.cpp) 136 ms (**70.53%**)
+</details>
+
+
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [181_Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
+<details>
+	<summary>Kellly.sql</summary>
+
+- [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/181_Employees%20Earning%20More%20Than%20Their%20Managers/Kellly.sql) 307 ms (**64.21%**)
 </details>
 
 
