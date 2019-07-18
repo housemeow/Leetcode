@@ -167,7 +167,6 @@
 - [Dennnaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Dennaolan.cpp) **Time Limit Exceeded**
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/tkd9714.php) 168 ms (**98.50%**), 24.1 MB (**58.97%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Kellly.cpp) 196 ms (**15.20%**), 18.3 MB (**15.88%**)
-
 </details>
   
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [16 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
@@ -532,6 +531,14 @@
 	<summary>Kellly.cpp</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/168_Excel%20Sheet%20Column%20Title/Kellly.cpp) 0 ms (**100.00%**), 8.1 MB (**70.87%**)
+</details>
+
+
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [169_Majority Element](https://leetcode.com/problems/majority-element/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/169_Majority%20Element/Kellly.cpp) 24 ms (**50.86%**), 11.1 MB (**37.97%**)
 </details>
 
 
