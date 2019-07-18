@@ -582,6 +582,14 @@
 </details>
 
 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [182_Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
+<details>
+	<summary>Kellly.sql</summary>
+
+- [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/182_Duplicate%20Emails/Kellly.cpp) 208 ms (**51.23%**)
+</details>
+
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
 <details>
 	<summary>Dennaolan.cpp</summary>
