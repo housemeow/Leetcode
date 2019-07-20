@@ -306,6 +306,14 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/33_Search%20in%20Rotated%20Sorted%20Array/Kellly.cpp) 4 ms (**86.81%**), 8.7 MB (**50.62%**)
 </details>
 
+### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [34_Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+<details>
+	<summary>tkd9714.php</summary>
+
+- [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/34_Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/tkd9714.php) 12 ms (**100%**), 19.1 MB (**62.5%**)
+
+</details>
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
