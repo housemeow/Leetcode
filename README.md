@@ -12,14 +12,14 @@
 ## 題目清單
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [1_Two Sum](https://leetcode.com/problems/two-sum/) 
 <details>
-	<summary>3k4733294.c, Dennaolan.cpp, Kellly.c, Kellly.cpp, tkd9714.php, 1_two_sum.py</summary>
+	<summary>3k4733294.c, Dennaolan.cpp, Kellly.c, Kellly.cpp, tkd9714.php, oliver.py</summary>
 
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c) 128 ms (**76.77%**), 7.5 MB (**82.55%**)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Dennaolan.cpp) 148 ms (**24.97%**), 9.3 MB (**81.64%**)
 - [Kellly.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.c)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php) 156 ms (**57.51%**), 15.9 MB (**43.77%**)
-- [1_two_sum.py](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/1_two_sum.py)
+- [oliver.py](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/oliver.py)
   </details>
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [2_Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
@@ -74,14 +74,14 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 <details>
-	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php, 7_reverse_integer.py</summary>
+	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php, oliver.py</summary>
 
 
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/3k4733294.c) 4 ms (**93.32%**), 6.9 MB (**64.19%**)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/Dennaolan.cpp) 4 ms (**86.77%**), 8.4 MB (**37.73%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/tkd9714.php) 4 ms (**97.65%**), 14.8 MB (**53.68%**)
-- [7_reverse_integer.py](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/7_reverse_integer.py)
+- [oliver.py](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/oliver.py)
 </details>
 
 
@@ -97,7 +97,7 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 <details>
-	<summary>3k4733294.c, Dennaolan.cpp, Kellly(list).cpp, Kellly(math).cpp, Kellly.(stack&queue).cpp, tkd9714.php, 9_palindrome_number.py</summary>
+	<summary>3k4733294.c, Dennaolan.cpp, Kellly(list).cpp, Kellly(math).cpp, Kellly.(stack&queue).cpp, tkd9714.php, oliver.py</summary>
 
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/3k4733294.c) 0 ms (**100%**), 7.2 MB (**78.1%**)
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Dennaolan.cpp) 20 ms (**71.83%**), 8.1 MB (**72.45%**)
@@ -105,7 +105,7 @@
 - [Kellly(math).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly(math).cpp)
 - [Kellly.(stack&queue).cpp](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/Kellly.(stack%26queue).cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/tkd9714.php) 20 ms (**96.82%**), 14.8 MB (**63.36%**)
-- [9_palindrome_number.py](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/pyhton3/9_palindrome_number.py)
+- [oliver.py](https://github.com/housemeow/Leetcode/blob/master/9_Palindrome%20Number/oliver.py)
 </details>
 
 
@@ -204,10 +204,10 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 <details>
-	<summary>Dennaolan.cpp, oiloiloil.py, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
+	<summary>Dennaolan.cpp, oliver.py, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/Dennaolan.cpp)
-- [oiloiloil.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/oiloiloil.py)
+- [oliver.py](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/oliver.py)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/21_Merge%20Two%20Sorted%20Lists/tkd9714.php) 4 ms (**95.49%**), 14.9 MB (**37.35%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/3k4733294.c) 4 ms (**91.02%**), 7.5 MB (**32.33%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/Kellly.cpp) 4 ms (**99.25%**), 9.1 MB (**9.74%**)
