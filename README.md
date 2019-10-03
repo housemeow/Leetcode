@@ -229,7 +229,7 @@
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 <details>
-	<summary>tkd9714.php</summary>
+	<summary>tkd9714.php, vegeman.js</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/24_Swap%20Nodes%20in%20Pairs/tkd9714.php) 4 ms (**97.92%**), 14.8 MB (**66.67%**)
 - [vegeman.js](https://github.com/housemeow/Leetcode/blob/master/24_Swap%20Nodes%20in%20Pairs/vegeman.js) 52 ms (**80.58%**), 33.9 MB (**15.79%**)
