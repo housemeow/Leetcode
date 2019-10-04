@@ -393,9 +393,10 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [88_Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 <details>
-	<summary>Kellly.cpp</summary>
+	<summary>Kellly.cpp, vegeman.js</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/88_Merge%20Sorted%20Array/Kellly.cpp) 4 ms (**89.35%**), 8.6 MB (**79.35%**)
+- [vegeman.js] (https://github.com/housemeow/Leetcode/blob/master/88_Merge%20Sorted%20Array/vegeman.js) 60 ms (**42.98%**), 35.2 MB (**7.69%**)
 </details>
 
 
