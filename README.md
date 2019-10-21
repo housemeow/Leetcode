@@ -70,6 +70,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/Kellly.cpp)
 - [tkd9714(double loop).php](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/tkd9714(double%20loop).php)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/tkd9714.php) 12 ms (**98.59%**), 14.8 MB (**94.74%**)
+- [vegeman.js](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/vegeman.js) 88 ms (**74.18%**), 38.2 MB (**88.89%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
