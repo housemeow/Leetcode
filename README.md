@@ -64,7 +64,7 @@
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 <details>
-	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, tkd9714(double loop).php</summary>
+	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, tkd9714(double loop).php, vegeman.js</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/Dennaolan.cpp) 52 ms (**14.53%**), 10.3 MB (**70.68%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/Kellly.cpp)
@@ -75,7 +75,7 @@
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 <details>
-	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php, oliver.py</summary>
+	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php, oliver.py, vegeman.js</summary>
 
 
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/3k4733294.c) 4 ms (**93.32%**), 6.9 MB (**64.19%**)
@@ -83,6 +83,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/Kellly.cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/tkd9714.php) 4 ms (**97.65%**), 14.8 MB (**53.68%**)
 - [oliver.py](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/oliver.py)
+- [vegeman.js](https://github.com/housemeow/Leetcode/blob/master/7_Reverse%20Integer/vegeman.js)
 </details>
 
 
