@@ -89,11 +89,12 @@
 
 ### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [8_String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 <details>
-	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp</summary>
+	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp, vegeman.js</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/Dennaolan.cpp) 4 ms (**92.54%**), 9 MB (**19.75%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/tkd9714.php) 8 ms (**88.36%**), 14.8 MB (**80.00%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/Kellly.cpp) 0 ms (**100.00%**), 8.6 MB (**14.37%**)
+- [vegeman.js](https://github.com/housemeow/Leetcode/blob/master/8_String%20to%20Integer%20(atoi)/vegeman.js) 68 ms (**94.04%**), 36.3 MB (**42.86%**)
 </details>
 
 
