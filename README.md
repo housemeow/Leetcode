@@ -608,7 +608,6 @@
 - [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/182_Duplicate%20Emails/Kellly.cpp) 208 ms (**51.23%**)
 </details>
 
-
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [183_Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
 <details>
 	<summary>Kellly.sql</summary>
@@ -616,6 +615,11 @@
 - [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/183_Customers%20Who%20Never%20Order/Kellly.sql) 225 ms (**99.13%**)
 </details>
 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [198_House Robber](https://leetcode.com/problems/house-robber/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/198_House%20Robber/Kellly.cpp) 0 ms (**100.00%**), 8.6 MB (**90.57%**)</details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
 <details>
