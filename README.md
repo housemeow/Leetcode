@@ -635,6 +635,13 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/303_Range%20Sum%20Query%20-%20Immutable/Kellly.cpp) 28 ms (**93.78%**), 17.1 MB (**96.55%**)
 </details>
 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [392_Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/392_Is%20Subsequence/Kellly.cpp) 72 ms (**19.25%**), 16.9 MB (**95.24%**)
+</details>
+
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [595_Big Countries](https://leetcode.com/problems/big-countries/)
 
 <details>
