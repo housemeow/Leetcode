@@ -626,7 +626,13 @@
 	<summary>Dennaolan.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/278_First%20Bad%20Version/Dennaolan.cpp) 0 ms (**100%**), 8.2 MB (**31.03%**)
+</details>
 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [303_Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/303_Range%20Sum%20Query%20-%20Immutable/Kellly.cpp) 28 ms (**93.78%**), 17.1 MB (**96.55%**)
 </details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [595_Big Countries](https://leetcode.com/problems/big-countries/)
