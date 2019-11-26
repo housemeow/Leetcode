@@ -652,7 +652,6 @@
 - [tkd9714.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/tkd9714.sql) 128 ms (**93.28%**)
 </details>
 
-
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [709_To Lower Case](https://leetcode.com/problems/to-lower-case/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
@@ -663,6 +662,12 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/tkd9714.php)
 </details>
 
+### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [746_Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+<details>
+	<summary>Kellly.cpp</summary>
+
+- [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/746_Min%20Cost%20Climbing%20Stairs/Kellly.cpp) 4 ms (**98.26%**), 8.8 MB (**81.40%**)
+</details>
 
 ### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [771_Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 <details>
