@@ -5,12 +5,12 @@
 3. 把檔案網址貼在readme
 
 ### 色塊標示題目難易度
-- ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) Hard
-- ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) Medium
+- ![Hard](https://housemeow.github.io/Leetcode/images/hard.svg) Hard
+- ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) Medium
 - ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) Easy
 
 ## 題目清單
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [1_Two Sum](https://leetcode.com/problems/two-sum/) 
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [1_Two Sum](https://leetcode.com/problems/two-sum/) 
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.c, Kellly.cpp, tkd9714.php, oliver.py</summary>
 
@@ -22,7 +22,7 @@
 - [oliver.py](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/oliver.py)
   </details>
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [2_Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [2_Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -31,7 +31,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/2_Add%20Two%20Numbers/tkd9714.php) 16 ms (**97.34%**), 14.8 MB (**58.16%**)
 </details>
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [3_Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [3_Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 <details>
 	<summary>Dennaolan.cpp, Dennaolan(list).cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -43,7 +43,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/3_Longest%20Substring%20Without%20Repeating%20Characters/tkd9714.php) 20 ms (**90.96%**), 15 MB (**44.41%**)
 </details>
 
-### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [4_Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+### ![Hard](https://housemeow.github.io/Leetcode/images/hard.svg) [4_Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 <details>
 	<summary>Kellly.cpp, tkd9714.php</summary>
 
@@ -51,7 +51,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/4_Median%20of%20Two%20Sorted%20Arrays/tkd9714.php) 36 ms (**90.63%**), 15 MB (**62.18%**)
 </details>
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [5_Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, Kellly(middle).cpp, tkd9714.php3, k4733294.c</summary>
 
@@ -62,7 +62,7 @@
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/3k4733294.c) 220 ms (**17.41%**), 7.1 MB (**62.68%**)
 </details>
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, tkd9714(double loop).php, vegeman.js</summary>
 
@@ -73,7 +73,7 @@
 - [vegeman.js](https://github.com/housemeow/Leetcode/blob/master/6_ZigZag%20Conversion/vegeman.js) 88 ms (**74.18%**), 38.2 MB (**88.89%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [7_Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php, oliver.py, vegeman.js</summary>
 
@@ -87,7 +87,7 @@
 </details>
 
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [8_String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [8_String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp, vegeman.js</summary>
 
@@ -98,7 +98,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [9_Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly(list).cpp, Kellly(math).cpp, Kellly.(stack&queue).cpp, tkd9714.php, oliver.py</summary>
 
@@ -112,7 +112,7 @@
 </details>
 
 
-### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [10_Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+### ![Hard](https://housemeow.github.io/Leetcode/images/hard.svg) [10_Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 <details>
 	<summary>Kellly.cpp, Kellly(DynamicProgramming).cpp, tkd9714.php</summary>
 
@@ -122,7 +122,7 @@
 </details>
 
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [11_Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [11_Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 <details>
 	<summary>Dennaolan.cpp, Kellly(ignoreLowerHeight).cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -132,7 +132,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/11_Container%20With%20Most%20Water/tkd9714.php) 32 ms (**97.14%**), 16.4 MB (**51.22%**)
 </details>
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [12_Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [12_Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, tkd9714(faster).php, Kellly.cpp</summary>
 
@@ -142,7 +142,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/12_Integer%20to%20Roman/Kellly.cpp) 4 ms (**96.11%**), 8.6 MB (**44.82%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [13_Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -152,7 +152,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/13_Roman%20to%20Integer/tkd9714.php) 16 ms (**91.45%**), 15 MB (**17.07%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [14_Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, oliver.py, 3k4733294.c</summary>
 
@@ -163,7 +163,7 @@
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/14_Longest%20Common%20Prefix/3k4733294.c) 0 ms (**100%**), 7.3 MB (**45.72%**)
   </details>
   
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [15_3Sum](https://leetcode.com/problems/3sum/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [15_3Sum](https://leetcode.com/problems/3sum/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp</summary>
 
@@ -172,14 +172,14 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Kellly.cpp) 196 ms (**15.20%**), 18.3 MB (**15.88%**)
 </details>
   
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [16 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [16 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 <details>
 	<summary>tkd9714.php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/16_3Sum%20Closest/tkd9714.php) 24 ms (**97.14%**), 14.8 MB (**57.14%**)
 </details>
   
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [17 Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [17 Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 <details>
 	<summary>tkd9714.php, tkd9714(simplify).php</summary>
 
@@ -188,14 +188,14 @@
 4 ms (**98.28%**), 15.1 MB (**16.22%**)
 </details>
   
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [19 Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [19 Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 <details>
 	<summary>tkd9714.php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/19_Remove%20Nth%20Node%20From%20End%20of%20List/tkd9714.php) 4 ms (**97.92%**), 14.7 MB(**82.76%**)
 </details>
   
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
@@ -205,7 +205,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/Kellly.cpp) 0 ms (**100.00%**), 8.6 MB (**15.93%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [21_Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 <details>
 	<summary>Dennaolan.cpp, oliver.py, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
@@ -216,21 +216,21 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/20_Valid%20Parentheses/Kellly.cpp) 4 ms (**99.25%**), 9.1 MB (**9.74%**)
 </details>
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 <details>
 	<summary>tkd9714.php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/22_Generate%20Parentheses/tkd9714.php) 4 ms(**97.62%**), 15.4 MB (**90.32%**)
 </details>
 
-### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [23 Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+### ![Hard](https://housemeow.github.io/Leetcode/images/hard.svg) [23 Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 <details>
 	<summary>tkd9714.php</summary>
 
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/23_Merge%20k%20Sorted%20Lists/tkd9714.php) 24 ms (**100%**), 22.6 MB (**41.67%**)
 </details>
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 <details>
 	<summary>tkd9714.php, vegeman.js</summary>
 
@@ -238,7 +238,7 @@
 - [vegeman.js](https://github.com/housemeow/Leetcode/blob/master/24_Swap%20Nodes%20in%20Pairs/vegeman.js) 52 ms (**80.58%**), 33.9 MB (**15.79%**)
 </details>
 
-### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+### ![Hard](https://housemeow.github.io/Leetcode/images/hard.svg) [25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 <details>
 	<summary>tkd9714.php, tkd9714(splstack).php</summary>
 
@@ -246,7 +246,7 @@
 - [tkd9714(splstack).php](https://github.com/housemeow/Leetcode/blob/master/25_Reverse%20Nodes%20in%20k-Group/tkd9714(splstack).php) 12 ms (**90.91%**), 15.9 MB (**100%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [26_Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
@@ -256,7 +256,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/26_Remove%20Duplicates%20from%20Sorted%20Array/Kellly.cpp) 20 ms (**94.56%**), 10 MB (**25.42%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [27_Remove Element](https://leetcode.com/problems/remove-element/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [27_Remove Element](https://leetcode.com/problems/remove-element/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
@@ -266,7 +266,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/27_Remove%20Element/Kellly.cpp) 0 ms (**100.00%**), 8.7 MB (**17.81%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [28_Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [28_Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
@@ -286,7 +286,7 @@
 </details>
 
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [31_Next Permutation](https://leetcode.com/problems/next-permutation/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [31_Next Permutation](https://leetcode.com/problems/next-permutation/)
 <details>
 	<summary>Kellly.cpp, tkd9714.php</summary>
 
@@ -294,7 +294,7 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/31_Next%20Permutation/tkd9714.php) 4 ms (**96.30%**), 14.9 MB (**66.67%**)
 </details>
 
-### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [32_Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+### ![Hard](https://housemeow.github.io/Leetcode/images/hard.svg) [32_Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 <details>
 	<summary>tkd9714.php, Kellly.cpp</summary>
 
@@ -302,7 +302,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/32_Longest%20Valid%20Parentheses/Kellly.cpp) 92 ms (**7.31%**), 19.4 MB (**5.05%**)
 </details>
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [33_Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [33_Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 <details>
 	<summary>tkd9714.php, Kellly.cpp</summary>
 
@@ -310,7 +310,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/33_Search%20in%20Rotated%20Sorted%20Array/Kellly.cpp) 4 ms (**86.81%**), 8.7 MB (**50.62%**)
 </details>
 
-### ![#f0ad4e](https://placehold.it/15/f0ad4e/000000?text=+) [34_Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [34_Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 <details>
 	<summary>tkd9714.php</summary>
 
@@ -318,7 +318,7 @@
 
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [35_Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, 3k4733294.c, Kellly.cpp</summary>
 
@@ -328,7 +328,7 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/35_Search%20Insert%20Position/Kellly.cpp) 8 ms (**73.48%**), 8.9 MB (**53.11%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [38_Count and Say](https://leetcode.com/problems/count-and-say/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [38_Count and Say](https://leetcode.com/problems/count-and-say/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp</summary>
 
@@ -337,14 +337,14 @@
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/38_Count%20and%20Say/Kellly.cpp) 4 ms (**86.01%**), 9 MB (**37.67%**)
 </details>
 
-### ![#d9534f](https://placehold.it/15/d9534f/000000?text=+) [44_Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+### ![Hard](https://housemeow.github.io/Leetcode/images/hard.svg) [44_Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 <details>
 	<summary>Kellly.cpp</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/44_Wildcard%20Matching/Kellly.cpp) 32 ms (**70.37%**), 9.8 MB (**53.85%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [53_Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [53_Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -352,7 +352,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [58_Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [58_Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -360,7 +360,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [66_Plus One](https://leetcode.com/problems/plus-one/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [66_Plus One](https://leetcode.com/problems/plus-one/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -368,7 +368,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [67_Add Binary](https://leetcode.com/problems/add-binary/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [67_Add Binary](https://leetcode.com/problems/add-binary/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -376,7 +376,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [69_Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [69_Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -384,7 +384,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [70_Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [70_Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -392,7 +392,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [83_Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [83_Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -400,7 +400,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [88_Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [88_Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 <details>
 	<summary>Kellly.cpp, vegeman.js</summary>
 
@@ -409,7 +409,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [100_Same Tree](https://leetcode.com/problems/same-tree/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [100_Same Tree](https://leetcode.com/problems/same-tree/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -417,7 +417,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [101_Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [101_Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -425,7 +425,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [104_Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [104_Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -433,7 +433,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [107_Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [107_Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -441,7 +441,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [108_Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [108_Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -449,7 +449,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [110_Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [110_Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -457,7 +457,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [111_Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [111_Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -465,7 +465,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [118_Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [118_Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -473,7 +473,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [119_Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [119_Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -481,7 +481,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [121_Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [121_Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -489,7 +489,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [122_Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [122_Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -497,7 +497,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [125_Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [125_Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -505,7 +505,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [136_Single Number](https://leetcode.com/problems/single-number/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [136_Single Number](https://leetcode.com/problems/single-number/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -513,7 +513,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [141_Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [141_Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -521,7 +521,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [155_Min Stack](https://leetcode.com/problems/min-stack/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [155_Min Stack](https://leetcode.com/problems/min-stack/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -529,7 +529,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [160_Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [160_Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -537,7 +537,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [167_Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [167_Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -545,7 +545,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [168_Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [168_Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -553,7 +553,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [169_Majority Element](https://leetcode.com/problems/majority-element/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [169_Majority Element](https://leetcode.com/problems/majority-element/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -561,7 +561,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [171_Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [171_Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -569,7 +569,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [172_Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [172_Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 <details>
 	<summary>Kellly.cpp</summary>
 
@@ -577,7 +577,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [175_Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [175_Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 <details>
 	<summary>Kellly.sql</summary>
 
@@ -585,7 +585,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [176_Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [176_Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
 <details>
 	<summary>Kellly.sql</summary>
 
@@ -593,7 +593,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [181_Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [181_Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 <details>
 	<summary>Kellly.sql</summary>
 
@@ -601,48 +601,48 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [182_Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [182_Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 <details>
 	<summary>Kellly.sql</summary>
 
 - [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/182_Duplicate%20Emails/Kellly.cpp) 208 ms (**51.23%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [183_Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [183_Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
 <details>
 	<summary>Kellly.sql</summary>
 
 - [Kellly.sql](https://github.com/housemeow/Leetcode/blob/master/183_Customers%20Who%20Never%20Order/Kellly.sql) 225 ms (**99.13%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [198_House Robber](https://leetcode.com/problems/house-robber/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [198_House Robber](https://leetcode.com/problems/house-robber/)
 <details>
 	<summary>Kellly.cpp</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/198_House%20Robber/Kellly.cpp) 0 ms (**100.00%**), 8.6 MB (**90.57%**)</details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
 <details>
 	<summary>Dennaolan.cpp</summary>
 
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/278_First%20Bad%20Version/Dennaolan.cpp) 0 ms (**100%**), 8.2 MB (**31.03%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [303_Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [303_Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 <details>
 	<summary>Kellly.cpp</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/303_Range%20Sum%20Query%20-%20Immutable/Kellly.cpp) 28 ms (**93.78%**), 17.1 MB (**96.55%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [392_Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [392_Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 <details>
 	<summary>Kellly.cpp</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/392_Is%20Subsequence/Kellly.cpp) 72 ms (**19.25%**), 16.9 MB (**95.24%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [595_Big Countries](https://leetcode.com/problems/big-countries/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [595_Big Countries](https://leetcode.com/problems/big-countries/)
 
 <details>
 	<summary>Dennaolan.sql, Kellly.sql, tkd9714.sql</summary>
@@ -652,7 +652,7 @@
 - [tkd9714.sql](https://github.com/housemeow/Leetcode/blob/master/595_Big%20Countries/tkd9714.sql) 128 ms (**93.28%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [709_To Lower Case](https://leetcode.com/problems/to-lower-case/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [709_To Lower Case](https://leetcode.com/problems/to-lower-case/)
 <details>
 	<summary>3k4733294.c, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -662,14 +662,14 @@
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/709_To%20Lower%20Case/tkd9714.php)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [746_Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [746_Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 <details>
 	<summary>Kellly.cpp</summary>
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/746_Min%20Cost%20Climbing%20Stairs/Kellly.cpp) 4 ms (**98.26%**), 8.8 MB (**81.40%**)
 </details>
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [771_Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [771_Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 <details>
 	<summary>3k4733294.cpp, Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -680,7 +680,7 @@
 </details>
 
 
-### [![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) 804_Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+### [![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) 804_Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, 3k4733294.c</summary>
 
@@ -691,7 +691,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [832_Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [832_Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, 3k4733294.c</summary>
 
@@ -702,7 +702,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [905_Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [905_Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php, 3k4733294.c</summary>
 
@@ -713,7 +713,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [929_Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [929_Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -723,7 +723,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [938_Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [938_Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp</summary>
 
@@ -732,7 +732,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [961_N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [961_N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp, tkd9714.php</summary>
 
@@ -742,7 +742,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [977_Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [977_Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 <details>
 	<summary>Dennaolan.cpp, tkd9714.php, Kellly.cpp</summary>
 
@@ -752,7 +752,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/5cb85c/000000?text=+) [1021_Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [1021_Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 <details>
 	<summary>Dennaolan.cpp, Kellly.cpp</summary>
 
