@@ -1,0 +1,33 @@
+// 一開始只是想嘗試使用 disscuss 推薦的 two points pattern
+// 在做的時候忽然想到如果下一個比這一個更短 那根本連計算都可以跳過 所以才出現了第二層的 while
+
+var maxArea = function(barHeights) {
+  let leftPoint = 0 
+  let rightPoint = barHeights.length - 1
+  let maxContainWater = 0
+  
+  while(leftPoint !== rightPoint) {
+    const height = Math.min(barHeights[leftPoint], barHeights[rightPoint])
+  
+    maxContainWater = Math.max(height * (rightPoint - leftPoint), maxContainWater)
+    
+    if (barHeights[leftPoint] > barHeights[rightPoint]) {
+      const base = rightPoint
+      
+      rightPoint--
+      
+      while (barHeights[rightPoint] <= barHeights[base] && rightPoint > leftPoint) {
+        rightPoint-- 
+      }
+    } else {
+      const base = leftPoint
+      
+      leftPoint++
+      while (barHeights[leftPoint] <= barHeights[base] && leftPoint < rightPoint) {
+        leftPoint++
+      }
+    }
+  }
+  
+  return maxContainWater
+};
