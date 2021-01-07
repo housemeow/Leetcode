@@ -1,0 +1,40 @@
+Runtime: 636 ms, faster than 7.02% of JavaScript online submissions for K Closest Points to Origin.
+Memory Usage: 56.6 MB, less than 15.72% of JavaScript online submissions for K Closest Points to Origin.
+
+/**
+ * @param {number[][]} points
+ * @param {number} K
+ * @return {number[][]}
+ */
+var kClosest = function (points, K) {
+  if (points.length < K) return points;
+
+  const res = [];
+  let maxIndex = 0;
+  const getMax = () => {
+    let resIndex = 0;
+    res.forEach((item, index) => {
+      if (item.dist > res[resIndex].dist) {
+        resIndex = index;
+      }
+    });
+    return resIndex;
+  };
+
+  points.map(([i, j], index) => {
+    const dist = i * i + j * j;
+    if (res.length < K) {
+      res.push({ dist, point: [i, j] });
+      if (dist > res[maxIndex].dist) {
+        maxIndex = index;
+      }
+    } else if (dist < res[maxIndex].dist) {
+      res[maxIndex] = { dist, point: [i, j] };
+      maxIndex = getMax();
+    }
+  });
+
+  return res.map(({ point }) => point);
+};
+
+// @lc code=end
