@@ -1,5 +1,5 @@
-Runtime: 112 ms, faster than 47.26% of JavaScript online submissions for Minimum Remove to Make Valid Parentheses.
-Memory Usage: 48.6 MB, less than 34.81% of JavaScript online submissions for Minimum Remove to Make Valid Parentheses.
+Runtime: 96 ms, faster than 88.71% of JavaScript online submissions for Minimum Remove to Make Valid Parentheses.
+Memory Usage: 48.5 MB, less than 35.51% of JavaScript online submissions for Minimum Remove to Make Valid Parentheses.
 
 var minRemoveToMakeValid = function(s) {
     const matchMap = new Map()
