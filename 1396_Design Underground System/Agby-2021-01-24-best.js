@@ -1,3 +1,5 @@
+Runtime: 232 ms, faster than 91.37% of JavaScript online submissions for Design Underground System.
+Memory Usage: 54.4 MB, less than 56.12% of JavaScript online submissions for Design Underground System.
 
 var UndergroundSystem = function() {
     this.history = {}
