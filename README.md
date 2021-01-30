@@ -621,6 +621,12 @@
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/198_House%20Robber/Kellly.cpp) 0 ms (**100.00%**), 8.6 MB (**90.57%**)</details>
 
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [241 Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+<details>
+	<summary>Alan.java</summary>
+
+- [Alan.java](https://github.com/housemeow/Leetcode/blob/master/241_Different%20Ways%20to%20Add%20Parentheses/Alan.java) 1 ms (**99.59%**), 39.3 MB (**36.02%**)</details>
+
 ### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
 <details>
 	<summary>Dennaolan.cpp</summary>
