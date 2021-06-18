@@ -1,4 +1,5 @@
 //2021-06-18
+
 var mergeTwoLists = function(l1, l2) {
   const root = new ListNode(0, null)
   let current = root
@@ -16,6 +17,7 @@ var mergeTwoLists = function(l1, l2) {
   
   return root.next
 };
+
 
 
 //2021-01-27
