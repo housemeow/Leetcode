@@ -1,3 +1,25 @@
+// 2021/06/18
+var twoSum = function(nums, target) {
+    const targetMap = new Map()
+    
+    for (let index = 0; index < nums.length; index ++) {
+      const current = nums[index]
+      const lookingFor = target - current
+      
+      if (targetMap.has(lookingFor)) {
+        return [targetMap.get(lookingFor), index]
+      }
+      
+      targetMap.set(current, index)
+    }
+  
+    return []
+};
+
+
+
+
+// not remeberd
 let twoSum = function (nums, target) {
   let i = 0;
   let ans;
