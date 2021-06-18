@@ -1,3 +1,27 @@
+//  2021/06/18
+
+var isValid = function(s) {
+  const reverse = {'{': '}','[':']', '(':')'}
+  const res = []
+
+  for (text of [...s]) {
+    if (text === '(' || text === '{' || text === '[') {
+      res.push(reverse[text])
+      continue
+    } 
+    
+    if (res.pop() === text) continue
+    
+    return false
+  }
+  
+  return res.length < 1
+};
+
+
+
+//  2021/01/21
+
 Runtime: 72 ms, faster than 95.78% of JavaScript online submissions for Valid Parentheses.
 Memory Usage: 39.1 MB, less than 31.47% of JavaScript online submissions for Valid Parentheses.
 
