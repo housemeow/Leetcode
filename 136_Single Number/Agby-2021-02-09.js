@@ -1,3 +1,19 @@
+// 2021/06/18
+
+var singleNumber = function(nums) {
+  let res
+  
+  nums.forEach(i => {res = i ^ res})
+  
+  return res
+};
+
+
+
+
+
+
+// 2021/02/09
 Runtime: 84 ms, faster than 87.08% of JavaScript online submissions for Single Number.
 Memory Usage: 41.5 MB, less than 64.67% of JavaScript online submissions for Single Number.
 
