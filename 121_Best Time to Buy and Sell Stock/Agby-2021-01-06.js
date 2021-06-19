@@ -1,3 +1,22 @@
+// 2021/06/19
+
+  let minPrice = 99999
+  let res = 0
+  
+  prices.forEach(prcie => {
+    if (prcie < minPrice) minPrice = prcie
+    
+    if (prcie > minPrice && res < prcie - minPrice) {
+      res = prcie - minPrice
+    }
+  })
+    
+  return res
+
+
+
+
+// 2021/01/06
 Runtime: 64 ms, faster than 99.93% of JavaScript online submissions for Best Time to Buy and Sell Stock.
 Memory Usage: 39.5 MB, less than 33.13% of JavaScript online submissions for Best Time to Buy and Sell Stock.
 
