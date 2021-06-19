@@ -1,3 +1,61 @@
+// 2021/06/19
+
+/**
+ * @param {string} s
+ * @return {boolean}
+ */
+
+var isPalindrome = function(s) {
+  let left = 0
+  let right = s.length - 1
+  
+  while (left <= right) {
+    const leftChar = s[left]
+    const rightChar = s[right]
+    
+    if (!isLetter(leftChar)) {
+      left++
+      continue
+    }
+    
+    if (!isLetter(rightChar)) {
+      right--
+      continue
+    }
+    
+    if (leftChar.toLowerCase() === rightChar.toLowerCase()) {
+      left++
+      right--
+      continue
+    }
+    
+    return false
+  }
+  
+  return true
+  
+};
+
+var isLetter = function(str) {
+  if(!str) return false
+  
+  const code = str.charCodeAt()
+  
+  if ((code >= 48) && (code <= 57)) return true   // numbers
+  if ((code >= 65) && (code <= 90)) return true   // uppercase
+  if ((code >= 97) && (code <= 122)) return true  // lowercase
+    
+  return false
+
+}
+
+
+
+
+
+
+// not rememberd
+
 // Runtime: 88 ms, faster than 92.49% of JavaScript online submissions for Valid Palindrome.
 // Memory Usage: 41.7 MB, less than 60.67% of JavaScript online submissions for Valid Palindrome.
 
