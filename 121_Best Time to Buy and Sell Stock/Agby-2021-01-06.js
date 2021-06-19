@@ -1,5 +1,5 @@
 // 2021/06/19
-
+var maxProfit = function(prices) {
   let minPrice = 99999
   let res = 0
   
@@ -12,6 +12,7 @@
   })
     
   return res
+}
 
 
 
