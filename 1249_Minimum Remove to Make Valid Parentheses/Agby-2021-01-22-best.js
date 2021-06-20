@@ -1,3 +1,34 @@
+// 2021/06/20
+
+var minRemoveToMakeValid = function(s) {
+  const stack = []
+  const res = [...s]
+  
+  for (let index = 0; index < s.length; index++) {
+    const curr = s[index]
+    if (curr === '(') {
+      stack.push(index)
+      continue
+    }
+    
+    if (curr === ')') {
+      stack.pop() === undefined && delete res[index] 
+    }
+  }
+
+  stack.forEach((val) => {
+    delete res[val]
+  })
+                
+  return res.join('')
+
+};
+
+
+
+
+// 2021/01/22
+
 /**
  * @param {string} s
  * @return {string}
