@@ -1,3 +1,31 @@
+// 2021/06/21
+
+var intervalIntersection = function(firstList, secondList) {
+  let firstIndex = 0
+  let secondIndex = 0
+  const res = []
+  
+  while (firstIndex < firstList.length && secondIndex < secondList.length) {
+    const currFirst = firstList[firstIndex]
+    const currSecond = secondList[secondIndex]    
+    const start = currSecond[0] > currFirst[0] ? currSecond[0] : currFirst[0]
+    const end = currSecond[1] < currFirst[1] ? currSecond[1] : currFirst[1]
+    
+    if (start <= end) {
+      res.push([start, end])
+    }
+    
+    currSecond[1] < currFirst[1] ? secondIndex ++ : firstIndex ++
+  }
+  
+  return res
+};
+
+
+
+
+
+// 2021/01/17
 Runtime: 96 ms, faster than 96.30% of JavaScript online submissions for Interval List Intersections.
 Memory Usage: 45.4 MB, less than 59.26% of JavaScript online submissions for Interval List Intersections.
 
