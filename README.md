@@ -18,6 +18,7 @@
 - [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Dennaolan.cpp) 148 ms (**24.97%**), 9.3 MB (**81.64%**)
 - [Kellly.c](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.c)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.cpp)
+- [Kellly.js](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/Kellly.js) 84 ms (**58.56%**), 41.4 MB (**9.03%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/tkd9714.php) 156 ms (**57.51%**), 15.9 MB (**43.77%**)
 - [oliver.py](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/oliver.py)
   </details>
