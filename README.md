@@ -628,6 +628,13 @@
 
 - [Alan.java](https://github.com/housemeow/Leetcode/blob/master/241_Different%20Ways%20to%20Add%20Parentheses/Alan.java) 1 ms (**99.59%**), 39.3 MB (**36.02%**)</details>
 
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/)
+<details>
+	<summary>Kellly.js</summary>
+
+- [Kellly.js](https://github.com/housemeow/Leetcode/blob/master/226_Invert%20Binary%20Tree/Kellly.js) 76 ms (**78.90%**), 40 MB (**9.98%**)</details>
+
+
 ### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [278_First Bad Version](https://leetcode.com/problems/first-bad-version/)
 <details>
 	<summary>Dennaolan.cpp</summary>
