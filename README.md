@@ -622,6 +622,17 @@
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/198_House%20Robber/Kellly.cpp) 0 ms (**100.00%**), 8.6 MB (**90.57%**)</details>
 
+
+
+### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+<details>
+	<summary>Kellly.js</summary>
+
+- [Kellly.js](https://github.com/housemeow/Leetcode/blob/master/217.%20Contains%20Duplicate/Kellly.js) 80 ms (**93.43%**), 44.8 MB (**62.09%**)</details>
+
+
+
+
 ### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [241 Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
 <details>
 	<summary>Alan.java</summary>
