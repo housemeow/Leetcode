@@ -61,6 +61,7 @@
 - [Kellly(middle).cpp](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/Kellly(middle).cpp)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/tkd9714.php) 28 ms (**98.09%**), 14.9 MB (**64.03%**)
 - [3k4733294.c](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/3k4733294.c) 220 ms (**17.41%**), 7.1 MB (**62.68%**)
+- [vegeman.js](https://github.com/housemeow/Leetcode/blob/master/5_Longest%20Palindromic%20Substring/vegeman.js) 92 ms (**94.88%**), 42.1 MB (**75.82%**)
 </details>
 
 ### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [6_ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
