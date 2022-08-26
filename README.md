@@ -282,7 +282,7 @@
 </details>
 
 
-### ![#5cb85c](https://placehold.it/15/f0ad4e/000000?text=+) [29_Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [29_Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 <details>
 	<summary>tkd9714.php</summary>
 
@@ -347,6 +347,15 @@
 
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/44_Wildcard%20Matching/Kellly.cpp) 32 ms (**70.37%**), 9.8 MB (**53.85%**)
 </details>
+
+
+### ![Medium](https://housemeow.github.io/Leetcode/images/medium.svg) [50_Pow(x, n)](https://leetcode.com/problems/powx-n/)
+<details>
+	<summary>Dennaolan.py</summary>
+
+- [Dennaolan.py](https://github.com/housemeow/Leetcode/blob/master/50_Pow(x%2C%20n)/Dennaolan.py) 71 ms (**6.17%**), 13.9 MB (**68.53%**)
+</details>
+
 
 ### ![Easy](https://housemeow.github.io/Leetcode/images/easy.svg) [53_Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 <details>
