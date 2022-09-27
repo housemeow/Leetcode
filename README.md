@@ -169,8 +169,8 @@
 <details>
 	<summary>Dennaolan.cpp, Dennnaolan.py, tkd9714.php, Kellly.cpp, vegeman.js</summary>
 
-- [Dennnaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Dennaolan.cpp) **Time Limit Exceeded**
-- [Dennnaolan.py](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Dennaolan.py) 2987 ms (**26.02%**), 18.2 MB (**39.53%**)
+- [Dennaolan.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Dennaolan.cpp) **Time Limit Exceeded**
+- [Dennaolan.py](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Dennaolan.py) 2987 ms (**26.02%**), 18.2 MB (**39.53%**)
 - [tkd9714.php](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/tkd9714.php) 168 ms (**98.50%**), 24.1 MB (**58.97%**)
 - [Kellly.cpp](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/Kellly.cpp) 196 ms (**15.20%**), 18.3 MB (**15.88%**)
 - [vegeman.js](https://github.com/housemeow/Leetcode/blob/master/15_3Sum/vegeman.js) 212 ms (**40.24%**), 49.3 MB (**66.28%**)
